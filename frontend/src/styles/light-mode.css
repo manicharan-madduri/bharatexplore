@@ -1,0 +1,471 @@
+/* ============================================================
+   LIGHT MODE COMPONENT OVERRIDES
+   Fixes hardcoded dark rgba values across all components
+   ============================================================ */
+
+[data-theme="light"] body {
+  background-color: var(--bg-deep);
+}
+
+/* ── Search bar ──────────────────────────────────────────── */
+[data-theme="light"] .search-container {
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 2px 8px rgba(15,23,42,0.10), 0 0 0 1px rgba(15,23,42,0.08);
+}
+[data-theme="light"] .search-container:focus-within {
+  box-shadow: 0 4px 16px rgba(15,23,42,0.12), 0 0 0 2px var(--color-accent);
+  transform: translateY(-2px);
+}
+[data-theme="light"] .search-input { color: var(--text-primary); }
+[data-theme="light"] .search-btn {
+  box-shadow: 0 2px 10px rgba(13,148,136,0.28);
+}
+
+/* ── Filter toolbar ──────────────────────────────────────── */
+[data-theme="light"] .filter-toolbar {
+  background: rgba(255, 255, 255, 0.97);
+  border-color: var(--glass-border-base);
+  box-shadow: var(--shadow-card);
+}
+[data-theme="light"] .filter-select {
+  background: #F8FAFC;
+  color: var(--text-primary);
+  border-color: var(--glass-border-base);
+}
+[data-theme="light"] .filter-select option {
+  background: #ffffff;
+  color: #0F172A;
+}
+
+/* ── Destination controls ────────────────────────────────── */
+[data-theme="light"] .destination-controls {
+  background: rgba(255, 255, 255, 0.96);
+  border-color: var(--glass-border-base);
+  box-shadow: var(--shadow-card);
+}
+[data-theme="light"] .control-btn { color: var(--text-secondary); }
+[data-theme="light"] .control-btn:hover {
+  background: #F0F4F8;
+  color: var(--text-primary);
+}
+[data-theme="light"] .control-btn.active {
+  background: var(--color-brand);
+  color: #ffffff;
+}
+[data-theme="light"] .controls-divider { background: var(--glass-border-base); }
+
+/* ── Destination cards ───────────────────────────────────── */
+[data-theme="light"] .destination-card {
+  background: #ffffff;
+  border-color: var(--glass-border-base);
+}
+[data-theme="light"] .destination-card:hover {
+  background: #ffffff;
+  border-color: var(--glass-border-accent);
+}
+[data-theme="light"] .destination-image-wrapper::after {
+  background: linear-gradient(to top, rgba(15,23,42,0.50) 0%, transparent 100%);
+}
+[data-theme="light"] .destination-card-footer {
+  border-top-color: var(--glass-border-base);
+}
+
+/* ── State cards ─────────────────────────────────────────── */
+[data-theme="light"] .state-card {
+  background: #ffffff;
+  border-color: var(--glass-border-base);
+}
+[data-theme="light"] .state-card:hover {
+  background: #ffffff;
+  border-color: var(--glass-border-accent);
+}
+[data-theme="light"] .state-image-wrapper::after {
+  background: linear-gradient(to top, rgba(15,23,42,0.50) 0%, transparent 50%);
+}
+[data-theme="light"] .state-badge {
+  background: rgba(255, 255, 255, 0.92);
+  border-color: var(--glass-border-base);
+  color: var(--color-accent);
+}
+
+/* ── Category chips ──────────────────────────────────────── */
+[data-theme="light"] .category-chip {
+  background: #ffffff;
+  border-color: var(--glass-border-base);
+  color: var(--text-secondary);
+}
+[data-theme="light"] .category-chip:hover {
+  background: #F0F9FF;
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+  box-shadow: 0 4px 16px rgba(13,148,136,0.12);
+}
+
+/* ── Glass utilities ─────────────────────────────────────── */
+[data-theme="light"] .glass-card,
+[data-theme="light"] .glass-card-elevated,
+[data-theme="light"] .glass-panel {
+  background: #ffffff;
+  border-color: var(--glass-border-base);
+}
+
+/* ── Info cards ──────────────────────────────────────────── */
+[data-theme="light"] .info-card {
+  background: #F8FAFC;
+  border-color: var(--glass-border-base);
+}
+[data-theme="light"] .info-card-icon {
+  background: #F0F4F8;
+  border-color: var(--glass-border-base);
+}
+
+/* ── Stats band ──────────────────────────────────────────── */
+[data-theme="light"] .stats-band {
+  background: rgba(255, 255, 255, 0.92);
+  border-color: var(--glass-border-base);
+}
+
+/* ── Verification box ────────────────────────────────────── */
+[data-theme="light"] .verification-box {
+  background: linear-gradient(135deg, rgba(13,148,136,0.06) 0%, rgba(14,165,233,0.04) 100%);
+  border-color: rgba(13,148,136,0.22);
+  box-shadow: 0 2px 12px rgba(13,148,136,0.08);
+}
+
+/* ── Travel tips ─────────────────────────────────────────── */
+[data-theme="light"] .travel-tips-box {
+  background: linear-gradient(135deg, rgba(245,158,11,0.08) 0%, rgba(249,115,22,0.05) 100%);
+}
+[data-theme="light"] .travel-tips-text { color: #92400E; }
+
+/* ── Buttons ─────────────────────────────────────────────── */
+[data-theme="light"] .btn-ghost,
+[data-theme="light"] .btn-outline {
+  background: rgba(15, 23, 42, 0.04);
+  border-color: var(--glass-border-base);
+  color: var(--text-primary);
+}
+[data-theme="light"] .btn-ghost:hover,
+[data-theme="light"] .btn-outline:hover:not(:disabled) {
+  background: rgba(15, 23, 42, 0.08);
+  border-color: var(--glass-border-bright);
+}
+
+/* ── Nav links (header) ──────────────────────────────────── */
+[data-theme="light"] .nav-link:hover {
+  background: rgba(15, 23, 42, 0.05);
+  color: var(--text-primary);
+}
+[data-theme="light"] .mobile-menu-btn {
+  background: rgba(15, 23, 42, 0.05);
+  border-color: var(--glass-border-base);
+  color: var(--text-primary);
+}
+
+/* ── Footer ──────────────────────────────────────────────── */
+[data-theme="light"] .site-footer {
+  background: rgba(255, 255, 255, 0.97);
+  border-top-color: var(--glass-border-base);
+}
+[data-theme="light"] .footer-badge {
+  background: #F8FAFC;
+  border-color: var(--glass-border-base);
+}
+[data-theme="light"] .footer-bottom {
+  border-top-color: var(--glass-border-base);
+}
+
+/* ── Skeleton loading ────────────────────────────────────── */
+[data-theme="light"] .skeleton {
+  background: linear-gradient(
+    90deg,
+    rgba(15,23,42,0.05) 25%,
+    rgba(15,23,42,0.09) 50%,
+    rgba(15,23,42,0.05) 75%
+  );
+  background-size: 200% 100%;
+}
+[data-theme="light"] .skeleton-card {
+  background: #F8FAFC;
+  border-color: var(--glass-border-base);
+}
+
+/* ── Scrollbar ───────────────────────────────────────────── */
+[data-theme="light"] ::-webkit-scrollbar-track  { background: #F0F4F8; }
+[data-theme="light"] ::-webkit-scrollbar-thumb  { background: rgba(13,148,136,0.20); }
+[data-theme="light"] ::-webkit-scrollbar-thumb:hover { background: rgba(13,148,136,0.40); }
+
+/* ── Category tag on cards ───────────────────────────────── */
+[data-theme="light"] .category-tag {
+  background: rgba(255, 255, 255, 0.92) !important;
+  border-color: var(--glass-border-base);
+  color: var(--color-brand) !important;
+}
+
+/* ── Error message ───────────────────────────────────────── */
+[data-theme="light"] .error-title { color: #B91C1C; }
+[data-theme="light"] .error-text  { color: #DC2626; }
+[data-theme="light"] .error-retry-btn { color: #B91C1C; }
+
+/* ── Auth & Account pages ────────────────────────────────── */
+[data-theme="light"] .auth-card {
+  background: #ffffff;
+  border-color: var(--glass-border-base);
+}
+[data-theme="light"] .auth-return-link {
+  background: rgba(255, 255, 255, 0.94);
+  color: var(--text-secondary);
+}
+[data-theme="light"] .form-input {
+  background: #F8FAFC;
+  border-color: var(--glass-border-base);
+  color: var(--text-primary);
+}
+[data-theme="light"] .form-input:focus {
+  background: #ffffff;
+  border-color: var(--color-brand);
+}
+[data-theme="light"] .btn-guest-continue {
+  background: #F8FAFC;
+  border-color: var(--glass-border-base);
+  color: var(--text-primary);
+}
+[data-theme="light"] .btn-guest-continue:hover:not(:disabled) {
+  background: #F0F9FF;
+  border-color: var(--color-brand);
+  color: var(--color-brand);
+}
+[data-theme="light"] .account-tab-btn:hover {
+  background: #F1F5F9;
+  color: var(--text-primary);
+}
+[data-theme="light"] .account-tab-btn.active {
+  background: rgba(14, 165, 233, 0.12);
+  color: var(--color-brand);
+  border-color: rgba(14, 165, 233, 0.3);
+}
+[data-theme="light"] .account-logout-btn {
+  background: rgba(225, 29, 72, 0.08);
+  border-color: rgba(225, 29, 72, 0.28);
+  color: #BE123C;
+}
+[data-theme="light"] .account-logout-btn:hover,
+[data-theme="light"] .account-logout-btn:focus-visible {
+  background: rgba(225, 29, 72, 0.16);
+  border-color: rgba(225, 29, 72, 0.45);
+  color: #9F1239;
+}
+[data-theme="light"] .nav-button-logout:hover,
+[data-theme="light"] .nav-button-logout:focus-visible,
+[data-theme="light"] .mobile-logout-btn:hover,
+[data-theme="light"] .mobile-logout-btn:focus-visible {
+  background: rgba(225, 29, 72, 0.1);
+  border-color: rgba(225, 29, 72, 0.3);
+  color: #BE123C;
+}
+
+/* ── Search Autocomplete Dropdown ────────────────────────── */
+[data-theme="light"] .search-clear-btn {
+  background: rgba(15, 23, 42, 0.06);
+  color: var(--text-secondary);
+}
+[data-theme="light"] .search-clear-btn:hover,
+[data-theme="light"] .search-clear-btn:focus-visible {
+  background: rgba(15, 23, 42, 0.12);
+  color: var(--text-primary);
+}
+[data-theme="light"] .search-autocomplete-dropdown {
+  background: rgba(255, 255, 255, 0.98);
+  border-color: var(--glass-border-base);
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.14), 0 0 0 1px rgba(15, 23, 42, 0.06);
+}
+[data-theme="light"] .autocomplete-item:hover,
+[data-theme="light"] .autocomplete-item.active {
+  background: #F0F9FF;
+  border-color: rgba(14, 165, 233, 0.3);
+}
+[data-theme="light"] .autocomplete-rank-badge {
+  background: rgba(245, 158, 11, 0.12);
+  color: #B45309;
+  border-color: rgba(245, 158, 11, 0.3);
+}
+
+/* ── Favorites Page & Heart Buttons ──────────────────────── */
+[data-theme="light"] .favorites-search-input {
+  background: #F8FAFC;
+  border-color: var(--glass-border-base);
+  color: var(--text-primary);
+}
+[data-theme="light"] .favorites-search-input:focus {
+  background: #ffffff;
+  border-color: var(--color-brand);
+}
+[data-theme="light"] .favorites-view-toggle {
+  background: #F1F5F9;
+  border-color: var(--glass-border-base);
+}
+[data-theme="light"] .favorites-clear-btn {
+  background: rgba(225, 29, 72, 0.08);
+  border-color: rgba(225, 29, 72, 0.25);
+  color: #BE123C;
+}
+[data-theme="light"] .favorites-clear-btn:hover {
+  background: rgba(225, 29, 72, 0.15);
+  color: #9F1239;
+}
+[data-theme="light"] .favorites-clear-confirm,
+[data-theme="light"] .favorites-confirm-inline,
+[data-theme="light"] .favorites-clear-confirm-text {
+  color: #9F1239;
+}
+[data-theme="light"] .favorites-clear-confirm-no,
+[data-theme="light"] .favorites-confirm-no {
+  background: rgba(15, 23, 42, 0.08);
+  color: var(--text-primary);
+}
+
+/* ── Add to Trip Buttons & Modal ─────────────────────────── */
+[data-theme="light"] .card-add-trip-btn {
+  background: rgba(13, 148, 136, 0.12);
+  border-color: rgba(13, 148, 136, 0.35);
+  color: #0F766E;
+}
+[data-theme="light"] .card-add-trip-btn:hover,
+[data-theme="light"] .card-add-trip-btn:focus-visible {
+  background: #0D9488;
+  border-color: #0F766E;
+  color: #ffffff;
+}
+[data-theme="light"] .card-add-trip-btn.in-trip {
+  background: rgba(16, 185, 129, 0.16);
+  border-color: rgba(16, 185, 129, 0.45);
+  color: #047857;
+}
+[data-theme="light"] .trip-modal-card {
+  background: #ffffff;
+  border-color: var(--glass-border-base);
+  box-shadow: 0 24px 60px rgba(15, 23, 42, 0.22);
+}
+[data-theme="light"] .trip-modal-tabs {
+  background: #F1F5F9;
+  border-color: var(--glass-border-base);
+}
+[data-theme="light"] .trip-modal-field input,
+[data-theme="light"] .trip-modal-field select,
+[data-theme="light"] .trip-modal-field textarea {
+  background: #F8FAFC;
+  border-color: var(--glass-border-base);
+  color: var(--text-primary);
+}
+[data-theme="light"] .trip-modal-error {
+  background: rgba(225, 29, 72, 0.1);
+  border-color: rgba(225, 29, 72, 0.3);
+  color: #9F1239;
+}
+
+/* ── My Trips, Smart Planner & Settings ──────────────────── */
+[data-theme="light"] .trips-form-field input,
+[data-theme="light"] .trips-form-field select,
+[data-theme="light"] .trips-form-field textarea,
+[data-theme="light"] .trips-search-input,
+[data-theme="light"] .trips-add-day-picker select,
+[data-theme="light"] .trips-stop-day-select,
+[data-theme="light"] .planner-select,
+[data-theme="light"] .settings-select {
+  background: #F8FAFC;
+  border-color: var(--glass-border-base);
+  color: var(--text-primary);
+}
+[data-theme="light"] .trips-search-results,
+[data-theme="light"] .trip-search-results-list {
+  background: #ffffff;
+  border-color: var(--glass-border-base);
+}
+[data-theme="light"] .trips-stop-item,
+[data-theme="light"] .trip-stop-row,
+[data-theme="light"] .trip-quick-add-box,
+[data-theme="light"] .planner-stop-card,
+[data-theme="light"] .planner-meta-item,
+[data-theme="light"] .settings-account-box,
+[data-theme="light"] .settings-stat-box {
+  background: #F8FAFC;
+  border-color: var(--glass-border-base);
+}
+[data-theme="light"] .trips-stop-notes-input,
+[data-theme="light"] .trip-stop-note-input {
+  background: #ffffff;
+  border-color: var(--glass-border-base);
+  color: var(--text-primary);
+}
+[data-theme="light"] .planner-scope-tab,
+[data-theme="light"] .planner-day-pill,
+[data-theme="light"] .planner-pace-btn,
+[data-theme="light"] .planner-cat-chip,
+[data-theme="light"] .settings-segmented-group,
+[data-theme="light"] .settings-switch-btn {
+  background: #F1F5F9;
+  border-color: var(--glass-border-base);
+  color: var(--text-secondary);
+}
+[data-theme="light"] .planner-cat-chip.active,
+[data-theme="light"] .settings-switch-btn.on {
+  background: rgba(13, 148, 136, 0.15);
+  border-color: #0D9488;
+  color: #0F766E;
+}
+[data-theme="light"] .planner-stop-tip {
+  color: #92400E;
+  background: rgba(245, 158, 11, 0.14);
+}
+[data-theme="light"] .settings-scope-badge.authenticated {
+  background: rgba(16, 185, 129, 0.15);
+  color: #047857;
+}
+[data-theme="light"] .settings-scope-badge.guest,
+[data-theme="light"] .trip-source-badge {
+  background: rgba(245, 158, 11, 0.15);
+  color: #B45309;
+}
+[data-theme="light"] .settings-confirm-clear-text {
+  color: #9F1239;
+}
+
+/* ── Verification & Search Pagination (Task Group 5) ────── */
+[data-theme="light"] .verification-status-pill.verified {
+  background: rgba(16, 185, 129, 0.16);
+  border-color: rgba(5, 150, 105, 0.45);
+  color: #065F46;
+}
+
+[data-theme="light"] .verification-status-pill.unresolved {
+  background: rgba(245, 158, 11, 0.18);
+  border-color: rgba(217, 119, 6, 0.45);
+  color: #92400E;
+}
+
+[data-theme="light"] .verification-box.unresolved {
+  background: rgba(245, 158, 11, 0.08);
+  border-color: rgba(217, 119, 6, 0.35);
+}
+
+[data-theme="light"] .verification-box.unresolved .verification-title {
+  color: #B45309;
+}
+
+[data-theme="light"] .verification-status-note {
+  background: #F8FAFC;
+  border-color: var(--glass-border-base);
+  color: var(--text-secondary);
+}
+
+[data-theme="light"] .photo-attribution-banner.unresolved {
+  background: rgba(245, 158, 11, 0.12);
+  border-color: rgba(217, 119, 6, 0.35);
+  color: #92400E;
+}
+
+[data-theme="light"] .accordion-cap-banner {
+  background: rgba(2, 132, 199, 0.08);
+  border-color: rgba(2, 132, 199, 0.28);
+  color: var(--text-secondary);
+}

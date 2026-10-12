@@ -1,0 +1,208 @@
+{
+  "state": "Tamil Nadu",
+  "batch": 8,
+  "generatedAt": "2026-10-11T12:31:42.177Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Meenakshi Amman Temple, Madurai",
+      "slug": "meenakshi-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Meenakshi_Amman_Temple_Tank.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meenakshi_Amman_Temple_Tank.jpg",
+      "author": "Simply CVR",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Brihadeeswarar Temple, Thanjavur",
+      "slug": "brihadeeswarar-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Brihadisvara_Temple_in_Thanjavur_1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Brihadisvara_Temple_in_Thanjavur_1.jpg",
+      "author": "Nandhini.b",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Shore Temple, Mahabalipuram",
+      "slug": "shore-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shore_temple_mahabalipuram.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shore_temple_mahabalipuram.JPG",
+      "author": "Thangaraj Kumaravel",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Group of Monuments, Mahabalipuram",
+      "slug": "group-of-monuments-mahabalipuram",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Group_of_Monuments_at_Mahabalipuram-107797.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Group_of_Monuments_at_Mahabalipuram-107797.jpg",
+      "author": "Siddharth.bhardwaj93",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Ramanathaswamy Temple, Rameswaram",
+      "slug": "ramanathaswamy-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramanathaswamy_Temple_corridor.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramanathaswamy_Temple_corridor.jpg",
+      "author": "Vinoth Chandar",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Kanyakumari and Vivekananda Rock Memorial",
+      "slug": "vivekananda-rock-memorial-kanyakumari",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vivekananda_Rock_Memorial_-_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vivekananda_Rock_Memorial_-_01.jpg",
+      "author": "Kondephy",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Ooty Botanical Gardens",
+      "slug": "ooty-botanical-gardens",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Government_Botanical_Garden_Ooty_5587.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Government_Botanical_Garden_Ooty_5587.JPG",
+      "author": "Ragesh",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Kodaikanal Lake",
+      "slug": "kodaikanal-lake",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kodaikanal_Lake_view.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kodaikanal_Lake_view.jpg",
+      "author": "KARTY sparks",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Nilgiri Mountain Railway",
+      "slug": "nilgiri-mountain-railway",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nilgiri_Mountain_Railway_X_class.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nilgiri_Mountain_Railway_X_class.jpg",
+      "author": "Shantham10",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Dhanushkodi",
+      "slug": "dhanushkodi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhanushkodi_church_ruin.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dhanushkodi_church_ruin.jpg",
+      "author": "Hekerui",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Gingee Fort",
+      "slug": "gingee-fort",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gingee_Fort_Tamil_Nadu_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gingee_Fort_Tamil_Nadu_India.jpg",
+      "author": "Dineshkannambadi",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Chidambaram Nataraja Temple",
+      "slug": "chidambaram-nataraja-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chidambaram_Temple_Nataraja.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chidambaram_Temple_Nataraja.jpg",
+      "author": "Varun Shiv",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Airavatesvara Temple, Darasuram",
+      "slug": "airavatesvara-temple-darasuram",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Darasuram_Airavatesvara_temple.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Darasuram_Airavatesvara_temple.jpg",
+      "author": "Richard Mortel",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Chettinad Heritage Mansions, Kanadukathan",
+      "slug": "chettinad-heritage-mansions",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chettinad_Palace_in_Kanadukathan.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chettinad_Palace_in_Kanadukathan.jpg",
+      "author": "Jean-Pierre Dalbéra",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Hogenakkal Falls",
+      "slug": "hogenakkal-falls",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hogenakkal_Falls_-_The_Niagara_of_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hogenakkal_Falls_-_The_Niagara_of_India.jpg",
+      "author": "Eeshan",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Mudumalai National Park",
+      "slug": "mudumalai-national-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Asian_Elephants_Mudumalai_National_Park.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asian_Elephants_Mudumalai_National_Park.jpg",
+      "author": "Pratheep P S",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Courtallam Waterfalls",
+      "slug": "courtallam-waterfalls",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Courtallam_Main_Falls.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Courtallam_Main_Falls.jpg",
+      "author": "Mdsuhail",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Yercaud Lake",
+      "slug": "yercaud-lake",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yercaud_Lake_Emerald.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yercaud_Lake_Emerald.jpg",
+      "author": "Manoj K",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Tiruvannamalai Arunachaleswarar Temple",
+      "slug": "tiruvannamalai-arunachaleswarar-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiruvannamalai_temple_gopuram.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiruvannamalai_temple_gopuram.jpg",
+      "author": "Girish Kumar",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Fort St. George, Chennai",
+      "slug": "fort-st-george-chennai",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fort_St._George_Chennai.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_St._George_Chennai.jpg",
+      "author": "Nsmohan",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

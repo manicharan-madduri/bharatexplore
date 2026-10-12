@@ -1,0 +1,72 @@
+.destination-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: var(--glass-d2);
+  border: 1px solid var(--glass-border-base);
+  padding: 0.35rem;
+  border-radius: 12px;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: var(--shadow-card);
+  flex-wrap: wrap;
+}
+
+.controls-divider {
+  width: 1px;
+  height: 24px;
+  background: var(--glass-border-bright);
+  margin: 0 0.25rem;
+}
+
+.limit-selector, .view-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  flex-wrap: wrap;
+}
+
+.control-btn {
+  background: transparent;
+  border: none;
+  padding: 0.4rem 0.75rem;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+}
+
+.control-btn.icon-btn {
+  padding: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.control-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-primary);
+}
+
+.control-btn:focus-visible {
+  outline: 2px solid var(--color-brand);
+  outline-offset: -2px;
+}
+
+.control-btn.active {
+  background: var(--color-brand);
+  color: white;
+  box-shadow: 0 2px 8px rgba(13, 148, 136, 0.25); /* brand shadow */
+}
+
+/* Dark mode adjustments are handled by CSS variables */
+
+@media (max-width: 640px) {
+  .destination-controls {
+    width: 100%;
+    justify-content: center;
+  }
+}

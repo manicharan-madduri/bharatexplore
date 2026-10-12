@@ -1,0 +1,208 @@
+{
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "batch": 10,
+  "generatedAt": "2026-10-11T13:36:10.224Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Diu Fort",
+      "slug": "diu-fort",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Diu_fort_Diu_india.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diu_fort_Diu_india.jpg",
+      "author": "Sumit sharma",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Naida Caves, Diu",
+      "slug": "naida-caves-diu",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Naida_Caves%2C_Diu.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naida_Caves,_Diu.jpg",
+      "author": "Edwin James",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Nagoa Beach, Diu",
+      "slug": "nagoa-beach-diu",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nagoa_Beach%2C_Diu.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nagoa_Beach,_Diu.jpg",
+      "author": "User: (WT-shared) SyeN at wts wikivoyage",
+      "license": "Public domain",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Ghoghla Beach, Diu",
+      "slug": "ghoghla-beach-diu",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Limpets%2C_Ghoghla_Beach%2C_Diu%2C_Diu-29-_29.06.2021.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Limpets,_Ghoghla_Beach,_Diu,_Diu-29-_29.06.2021.jpg",
+      "author": "SMarndi",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "St. Paul's Church, Diu",
+      "slug": "st-pauls-church-diu",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/St._Paul's_Church_Daman_%26_Diu%2C_Diu_Dsc-0001.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Paul's_Church_Daman_&_Diu,_Diu_Dsc-0001.jpg",
+      "author": "Sarasrewa",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "INS Khukri Memorial, Diu",
+      "slug": "ins-khukri-memorial-diu",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Model_of_INS_Khukri_at_memorial_of_the_ship%2C_2012.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Model_of_INS_Khukri_at_memorial_of_the_ship,_2012.jpg",
+      "author": "Archan dave",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Gangeshwar Mahadev Temple, Diu",
+      "slug": "gangeshwar-mahadev-temple-diu",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gangeshwar_Temple.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gangeshwar_Temple.jpg",
+      "author": "Shakti",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Jallandhar Beach, Diu",
+      "slug": "jallandhar-beach-diu",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Road_from_Jalandhar_Beach_to_Ganeshwar_Mahadev_temple%2C_Diu.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Road_from_Jalandhar_Beach_to_Ganeshwar_Mahadev_temple,_Diu.jpg",
+      "author": "User: (WT-shared) SyeN at wts wikivoyage",
+      "license": "Public domain",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Chakratirth Beach, Diu",
+      "slug": "chakratirth-beach-diu",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Diu-34-_28.06.2021.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diu-34-_28.06.2021.jpg",
+      "author": "SMarndi",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Mirasol Lake Garden, Daman",
+      "slug": "mirasol-lake-garden-daman",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mirasol_Lake_Garden.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirasol_Lake_Garden.jpg",
+      "author": "Real96kmaratha",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Devka Beach, Daman",
+      "slug": "devka-beach-daman",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Daman_Devka_Beach_HighTide.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daman_Devka_Beach_HighTide.JPG",
+      "author": "Pradeep717",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Jampore Beach, Daman",
+      "slug": "jampore-beach-daman",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Daman_Jampore_Beach.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daman_Jampore_Beach.JPG",
+      "author": "Pradeep717",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Moti Daman Fort",
+      "slug": "moti-daman-fort",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Daman_MotiDaman_Fort.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daman_MotiDaman_Fort.JPG",
+      "author": "Pradeep717",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Nani Daman Fort",
+      "slug": "nani-daman-fort",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Daman_NaniDaman_Fort_1.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daman_NaniDaman_Fort_1.JPG",
+      "author": "Pradeep717",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Dominican Monastery ruins, Daman",
+      "slug": "dominican-monastery-ruins-daman",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominican_Monastery_1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dominican_Monastery_1.jpg",
+      "author": "Sunil Jose",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Church of Bom Jesus, Daman",
+      "slug": "church-of-bom-jesus-daman",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Church_Of_Bom_Jesus_Daman.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_Of_Bom_Jesus_Daman.JPG",
+      "author": "Shrey t37",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Vanganga Lake Garden, Silvassa",
+      "slug": "vanganga-lake-garden-silvassa",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vanganga_Garden%2C_Silvassa_(32345632184).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vanganga_Garden,_Silvassa_(32345632184).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Tribal Cultural Museum, Silvassa",
+      "slug": "tribal-cultural-museum-silvassa",
+      "coverImageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "sourceUrl": "https://tourismdnhd.in",
+      "author": "UT Administration Tourism",
+      "license": "Official Tourism",
+      "status": "UNRESOLVED"
+    },
+    {
+      "rank": 19,
+      "name": "Dudhni Lake, Dadra and Nagar Haveli",
+      "slug": "dudhni-lake-silvassa",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Romantic_memorable_picture.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Romantic_memorable_picture.jpg",
+      "author": "Vta patel",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Satmaliya Deer Park, Dadra and Nagar Haveli",
+      "slug": "satmaliya-deer-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Bull_or_Nilgai.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Bull_or_Nilgai.jpg",
+      "author": "Paulmshr14",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

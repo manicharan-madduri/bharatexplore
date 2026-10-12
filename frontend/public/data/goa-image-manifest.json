@@ -1,0 +1,222 @@
+[
+  {
+    "destination": "Basilica of Bom Jesus",
+    "slug": "basilica-of-bom-jesus",
+    "cityOrDistrict": "Old Goa, North Goa",
+    "category": "Church",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Basilica_of_Bom_Jesus,_old_goa_(cropped).JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Basilica_of_Bom_Jesus,_old_goa_(cropped).JPG",
+    "author": "P.S.SUJAY",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Se Cathedral",
+    "slug": "se-cathedral",
+    "cityOrDistrict": "Old Goa, North Goa",
+    "category": "Church",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Old_Goa,_Se_Cathedral,_Panoramic_view.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_Goa,_Se_Cathedral,_Panoramic_view.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Fort Aguada",
+    "slug": "fort-aguada",
+    "cityOrDistrict": "Sinquerim, Candolim, North Goa",
+    "category": "Fort",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aguada_Fort,_India_Goa.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Aguada_Fort,_India_Goa.jpg",
+    "author": "Sanjay gorivale",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Chapora Fort",
+    "slug": "chapora-fort",
+    "cityOrDistrict": "Chapora, Bardez, North Goa",
+    "category": "Fort",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chapora_fort,_Goa,India.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Chapora_fort,_Goa,India.JPG",
+    "author": "Kumars",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Dudhsagar Waterfalls",
+    "slug": "dudhsagar-waterfalls",
+    "cityOrDistrict": "Sonaulim, South Goa",
+    "category": "Waterfall",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dudhsagar_Falls,_Goa.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dudhsagar_Falls,_Goa.jpg",
+    "author": "Dipayan Choudhury",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Palolem Beach",
+    "slug": "palolem-beach",
+    "cityOrDistrict": "Canacona, South Goa",
+    "category": "Beach",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Palolem_beach.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Palolem_beach.jpg",
+    "author": "Satyajit Nayak",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Baga Beach",
+    "slug": "baga-beach",
+    "cityOrDistrict": "Baga, Bardez, North Goa",
+    "category": "Beach",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/India_-_Goa_-_010_-_Touristy_Baga_Beach.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:India_-_Goa_-_010_-_Touristy_Baga_Beach.jpg",
+    "author": "McKay Savage",
+    "license": "CC BY 2.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Calangute Beach",
+    "slug": "calangute-beach",
+    "cityOrDistrict": "Calangute, Bardez, North Goa",
+    "category": "Beach",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Calangute_beach_Goa.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Calangute_beach_Goa.jpg",
+    "author": "Jonathansammy",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Anjuna Beach",
+    "slug": "anjuna-beach",
+    "cityOrDistrict": "Anjuna, Bardez, North Goa",
+    "category": "Beach",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anjuna_beach_Goa.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Anjuna_beach_Goa.jpg",
+    "author": "Ssr",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Colva Beach",
+    "slug": "colva-beach",
+    "cityOrDistrict": "Colva, Salcete, South Goa",
+    "category": "Beach",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Activities_at_Colva_Beach.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Activities_at_Colva_Beach.jpg",
+    "author": "Rupeshsarkar",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Cabo de Rama Fort",
+    "slug": "cabo-de-rama-fort",
+    "cityOrDistrict": "Canacona, South Goa",
+    "category": "Fort",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cabo_de_Rama_Entrance.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Cabo_de_Rama_Entrance.jpg",
+    "author": "Trinidade",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Fontainhas",
+    "slug": "fontainhas",
+    "cityOrDistrict": "Panaji, North Goa",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Streets_of_Fontainhas,_Panaji_(07).jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Streets_of_Fontainhas,_Panaji_(07).jpg",
+    "author": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Reis Magos Fort",
+    "slug": "reis-magos-fort",
+    "cityOrDistrict": "Reis Magos, Bardez, North Goa",
+    "category": "Fort",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Reis_Magos_Fort_in_Goa.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Reis_Magos_Fort_in_Goa.jpg",
+    "author": "Amarender Jannu",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Tambdi Surla Temple",
+    "slug": "tambdi-surla-temple",
+    "cityOrDistrict": "Dharbandora, South Goa",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tambdi_Surla_Mahadev_temple.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tambdi_Surla_Mahadev_temple.JPG",
+    "author": "AshLin",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Divar Island",
+    "slug": "divar-island",
+    "cityOrDistrict": "Tiswadi, North Goa",
+    "category": "Island",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Church_of_Our_Lady_of_Compassion_is_located_in_the_village_of_Piedade;_in_Divar_island.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Church_of_Our_Lady_of_Compassion_is_located_in_the_village_of_Piedade;_in_Divar_island.jpg",
+    "author": "Nehanaik1606",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Salim Ali Bird Sanctuary",
+    "slug": "salim-ali-bird-sanctuary",
+    "cityOrDistrict": "Chorão Island, North Goa",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Salim_ali_sanctuary_walkway.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Salim_ali_sanctuary_walkway.jpg",
+    "author": "Shyamal",
+    "license": "CC0 1.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Grande Island",
+    "slug": "grande-island",
+    "cityOrDistrict": "Mormugao, South Goa",
+    "category": "Island",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Grande_Island,_Vasco-da-Gama.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Grande_Island,_Vasco-da-Gama.jpg",
+    "author": "Goan VR",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Miramar Beach",
+    "slug": "miramar-beach",
+    "cityOrDistrict": "Panaji, North Goa",
+    "category": "Beach",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Miramar_beach_goa.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Miramar_beach_goa.JPG",
+    "author": "Amboeing747",
+    "license": "CC BY 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Bhagwan Mahavir Wildlife Sanctuary",
+    "slug": "bhagwan-mahavir-wildlife-sanctuary",
+    "cityOrDistrict": "Mollem, South Goa",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NH748_Mollem_Goa.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:NH748_Mollem_Goa.jpg",
+    "author": "JosephAssisFernandes",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Dona Paula",
+    "slug": "dona-paula",
+    "cityOrDistrict": "Panaji, North Goa",
+    "category": "Viewpoint",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dona_Paula,_Goa.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dona_Paula,_Goa.jpg",
+    "author": "Binobose",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  }
+]

@@ -1,0 +1,208 @@
+{
+  "state": "Chandigarh",
+  "batch": 10,
+  "generatedAt": "2026-10-11T13:36:10.221Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Rock Garden of Chandigarh",
+      "slug": "rock-garden-chandigarh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rock_Garden_Chandigarh_India.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rock_Garden_Chandigarh_India.JPG",
+      "author": "Raakesh Blokhra",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Sukhna Lake",
+      "slug": "sukhna-lake",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sukhna_Lake%2C_Chandigarh%2C_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sukhna_Lake,_Chandigarh,_India.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Zakir Hussain Rose Garden",
+      "slug": "zakir-hussain-rose-garden",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zakir_Hussain_Rose_Garden_Chandigarh.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zakir_Hussain_Rose_Garden_Chandigarh.jpg",
+      "author": "Rhythm kataria",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Capitol Complex",
+      "slug": "capitol-complex-chandigarh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chandigarh_Capitol_Complex_-_Le_Corbusier_-_Hall_of_Shadows_ramp.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandigarh_Capitol_Complex_-_Le_Corbusier_-_Hall_of_Shadows_ramp.jpg",
+      "author": "Nicholas.iyadurai",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Government Museum and Art Gallery",
+      "slug": "government-museum-and-art-gallery-chandigarh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chandigarh_Architecture_Museum%2C_Sector_10-C.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandigarh_Architecture_Museum,_Sector_10-C.jpg",
+      "author": "Rhythm kataria",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Sector 17 Plaza",
+      "slug": "sector-17-plaza-chandigarh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Neelam_theater_Sector_17%2C_Chandigarh.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neelam_theater_Sector_17,_Chandigarh.jpg",
+      "author": "Rhythm kataria",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Open Hand Monument",
+      "slug": "open-hand-monument-chandigarh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Open_Hand_monument%2C_Chandigarh.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Open_Hand_monument,_Chandigarh.jpg",
+      "author": "Raakesh Blokhra",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Le Corbusier Centre",
+      "slug": "le-corbusier-centre-chandigarh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Le_Corbusier_Centre%2C_Sector_19.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_Corbusier_Centre,_Sector_19.jpg",
+      "author": "Rhythm kataria",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Chandigarh Bird Park",
+      "slug": "chandigarh-bird-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/White-throated_fantail%2C_traffic_park_%2C_chandigarh%2C_Indiia.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:White-throated_fantail,_traffic_park_,_chandigarh,_Indiia.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Japanese Garden",
+      "slug": "japanese-garden-chandigarh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Japanese_Garden_Chandigarh_scenery.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Japanese_Garden_Chandigarh_scenery.jpg",
+      "author": "Pankajkukreti03",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Tower of Shadows",
+      "slug": "tower-of-shadows-chandigarh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Capitol_complex_Monument_3_Chandigarh.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capitol_complex_Monument_3_Chandigarh.jpg",
+      "author": "Shanmugamp7",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Punjab and Haryana High Court exterior",
+      "slug": "punjab-and-haryana-high-court",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Open_Hand_monument%2C_Chandigarh.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Open_Hand_monument,_Chandigarh.jpg",
+      "author": "Raakesh Blokhra",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Terraced Garden",
+      "slug": "terraced-garden-chandigarh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Terraced_Garden_Chandigarh.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terraced_Garden_Chandigarh.jpg",
+      "author": "Rhythm kataria",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Garden of Silence",
+      "slug": "garden-of-silence-chandigarh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Landscape_view_of_silence_garden_Chandigarh_in_spring_season_-2017.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Landscape_view_of_silence_garden_Chandigarh_in_spring_season_-2017.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "International Dolls Museum",
+      "slug": "international-dolls-museum-chandigarh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/20210403_175759_Enhance.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20210403_175759_Enhance.jpg",
+      "author": "Ahoun Xinjitsu",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Topiary Park",
+      "slug": "topiary-park-chandigarh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bench_at_the_Topiary_Park_-_panoramio.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bench_at_the_Topiary_Park_-_panoramio.jpg",
+      "author": "ソキ",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Bougainvillea Garden",
+      "slug": "bougainvillea-garden-chandigarh",
+      "coverImageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "sourceUrl": "https://chandigarhtourism.gov.in",
+      "author": "Chandigarh Tourism",
+      "license": "Official Tourism",
+      "status": "UNRESOLVED"
+    },
+    {
+      "rank": 18,
+      "name": "Garden of Fragrance, Sector 36",
+      "slug": "garden-of-fragrance-chandigarh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/36B%2C_Sector_36%2C_Chandigarh%2C_160036%2C_India_-_panoramio.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:36B,_Sector_36,_Chandigarh,_160036,_India_-_panoramio.jpg",
+      "author": "ソキ",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Chandigarh Architecture Museum",
+      "slug": "chandigarh-architecture-museum",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chandigarh_Architecture_Museum%2C_Sector_10-C.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandigarh_Architecture_Museum,_Sector_10-C.jpg",
+      "author": "Rhythm kataria",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Sukhna Wildlife Sanctuary",
+      "slug": "sukhna-wildlife-sanctuary",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sukhna_Wildlife_Sanctuary%2C_view_from_middle_way_of_Sukhna_Lake%2C_Chandigarh%2C_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sukhna_Wildlife_Sanctuary,_view_from_middle_way_of_Sukhna_Lake,_Chandigarh,_India.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

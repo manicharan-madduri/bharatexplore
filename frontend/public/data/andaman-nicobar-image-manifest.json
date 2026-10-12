@@ -1,0 +1,208 @@
+{
+  "state": "Andaman and Nicobar Islands",
+  "batch": 9,
+  "generatedAt": "2026-10-11T13:13:54.311Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Radhanagar Beach, Swaraj Dweep",
+      "slug": "radhanagar-beach-swaraj-dweep",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Havelock_Island%2C_Radhanagar_Beach%2C_Andaman_Islands.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Havelock_Island,_Radhanagar_Beach,_Andaman_Islands.jpg",
+      "author": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Elephant Beach, Swaraj Dweep",
+      "slug": "elephant-beach-swaraj-dweep",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Elephant_beach%2C_Havelock_Island.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephant_beach,_Havelock_Island.jpg",
+      "author": "Deepak kishore",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Kalapathar Beach, Swaraj Dweep",
+      "slug": "kalapathar-beach-swaraj-dweep",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalapathar_beach_Havelock_Island%2C_Andaman%2C_India.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalapathar_beach_Havelock_Island,_Andaman,_India.JPG",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Cellular Jail, Sri Vijaya Puram",
+      "slug": "cellular-jail-sri-vijaya-puram",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cellular_jail_or_kaalaapani.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cellular_jail_or_kaalaapani.jpg",
+      "author": "Jomesh",
+      "license": "CC BY 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Ross Island (Netaji Subhas Chandra Bose Island)",
+      "slug": "ross-island-port-blair",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ross_Island%2C_Port_Blair_in_Andaman_Island.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ross_Island,_Port_Blair_in_Andaman_Island.jpg",
+      "author": "Shad Siddiqui",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "North Bay Island",
+      "slug": "north-bay-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse-2-north_bay_island-andaman-India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lighthouse-2-north_bay_island-andaman-India.jpg",
+      "author": "Yercaud-elango",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Baratang Limestone Caves",
+      "slug": "baratang-limestone-caves",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Limestone_Cave_Baratang_Andaman_vrvbaan042k24_%2837%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Limestone_Cave_Baratang_Andaman_vrvbaan042k24_(37).jpg",
+      "author": "Vinayaraj",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Baratang Mud Volcano",
+      "slug": "baratang-mud-volcano",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mud_volcano_area-1-baratang-andaman-India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mud_volcano_area-1-baratang-andaman-India.jpg",
+      "author": "Yercaud-elango",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Chidiya Tapu",
+      "slug": "chidiya-tapu",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chidiya_Tapu.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chidiya_Tapu.jpg",
+      "author": "Arkadeep Meta",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Mount Manipur National Park",
+      "slug": "mount-manipur-national-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mt._Harriet_National_Park.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mt._Harriet_National_Park.jpg",
+      "author": "Harikrishnan S",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Mahatma Gandhi Marine National Park, Wandoor",
+      "slug": "mahatma-gandhi-marine-national-park-wandoor",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wandoor_beach%2C_Andaman_and_Nicobar_Islands.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wandoor_beach,_Andaman_and_Nicobar_Islands.jpg",
+      "author": "Ritu Kulshrestha",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Jolly Buoy Island",
+      "slug": "jolly-buoy-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jolly_Buoy_Island.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jolly_Buoy_Island.jpg",
+      "author": "Ayushi rai",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Red Skin Island",
+      "slug": "red-skin-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_skin_island%2C_Andaman_Nicobar_Island.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_skin_island,_Andaman_Nicobar_Island.jpg",
+      "author": "Singhabhinav7",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Neil Island (Shaheed Dweep) beaches",
+      "slug": "neil-island-beaches",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shaheed_Island%2C_Andamans%2C_Mangrove_beach%2C_True_wilderness.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shaheed_Island,_Andamans,_Mangrove_beach,_True_wilderness.jpg",
+      "author": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Bharatpur Beach, Shaheed Dweep",
+      "slug": "bharatpur-beach-shaheed-dweep",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bharatpur_Beach_%2C_Niel_Island_%2C_Andaman_Island%2C_India.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bharatpur_Beach_,_Niel_Island_,_Andaman_Island,_India.JPG",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Natural Bridge, Shaheed Dweep",
+      "slug": "natural-bridge-shaheed-dweep",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Natural_Bridge%2C_Neil_Island%2C_Andaman%2C_India.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Natural_Bridge,_Neil_Island,_Andaman,_India.JPG",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Viper Island",
+      "slug": "viper-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Viper_Island.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Viper_Island.JPG",
+      "author": "Biswarup Ganguly",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Samudrika Naval Marine Museum",
+      "slug": "samudrika-naval-marine-museum",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Naval_marine_museum-1-samudrika-andaman-India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_marine_museum-1-samudrika-andaman-India.jpg",
+      "author": "Yercaud-elango",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Anthropological Museum, Sri Vijaya Puram",
+      "slug": "anthropological-museum-sri-vijaya-puram",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zonal_Anthropological_Museum%2C_Port_Blair_vrvbaan042k24_%2813%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zonal_Anthropological_Museum,_Port_Blair_vrvbaan042k24_(13).jpg",
+      "author": "Vinayaraj",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Diglipur and Ross and Smith Islands",
+      "slug": "diglipur-ross-and-smith-islands",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ross_and_Smith_island%2C_Andaman_Nicobar_Island.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ross_and_Smith_island,_Andaman_Nicobar_Island.jpg",
+      "author": "Singhabhinav7",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

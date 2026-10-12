@@ -1,0 +1,208 @@
+{
+  "state": "Rajasthan",
+  "batch": 7,
+  "generatedAt": "2026-10-11T08:24:04.242Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Amber Fort",
+      "slug": "amber-fort",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaipur_03-2016_02_Amber_Fort.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaipur_03-2016_02_Amber_Fort.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Hawa Mahal",
+      "slug": "hawa-mahal",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/20191218%2C_Hawa_Mahal_(The_Palace_of_Winds)_in_Jaipur%2C_1128_9119.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20191218,_Hawa_Mahal_(The_Palace_of_Winds)_in_Jaipur,_1128_9119.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "City Palace, Jaipur",
+      "slug": "city-palace-jaipur",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaipur_03-2016_20_City_Palace_complex.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaipur_03-2016_20_City_Palace_complex.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Jaisalmer Fort",
+      "slug": "jaisalmer-fort",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaisalmer_forteresse.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaisalmer_forteresse.jpg",
+      "author": "Jean-Pierre Dalbéra",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Mehrangarh Fort",
+      "slug": "mehrangarh-fort",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mehrangarh_Fort_2%2C_Jodhpur%2C_Rajasthan%2C_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mehrangarh_Fort_2,_Jodhpur,_Rajasthan,_India.jpg",
+      "author": "Daniel Villafruela",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Udaipur City Palace",
+      "slug": "udaipur-city-palace",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/City_Palace_Udaipur_Rajasthan_India.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:City_Palace_Udaipur_Rajasthan_India.JPG",
+      "author": "G41rn8",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Lake Pichola",
+      "slug": "lake-pichola",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pichola_lake_sunset.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pichola_lake_sunset.JPG",
+      "author": "Dhaval Momaya",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Chittorgarh Fort",
+      "slug": "chittorgarh-fort",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chittorgarh_fort.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chittorgarh_fort.JPG",
+      "author": "Ssjoshi111",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Kumbhalgarh Fort",
+      "slug": "kumbhalgarh-fort",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kumbhalgarh_Fort_viewed_at_Sunset.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kumbhalgarh_Fort_viewed_at_Sunset.JPG",
+      "author": "Rohit K Sukheja",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Ranthambore National Park",
+      "slug": "ranthambore-national-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_tiger_in_Ranthambore_National_Park_(2016).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_tiger_in_Ranthambore_National_Park_(2016).jpg",
+      "author": "Bjørn Christian Tørrissen",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Pushkar Lake",
+      "slug": "pushkar-lake",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/20191214_Ghats_in_Pushkar_1713_8593.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20191214_Ghats_in_Pushkar_1713_8593.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Ajmer Sharif Dargah",
+      "slug": "ajmer-sharif-dargah",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Night_View_of_Ajmer_Sharif_Dargah.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Night_View_of_Ajmer_Sharif_Dargah.jpg",
+      "author": "Syed Faizaan",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Mount Abu",
+      "slug": "mount-abu",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nakki_Lake%2C_Mount_Abu%2C_Rajasthan%2C_610.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nakki_Lake,_Mount_Abu,_Rajasthan,_610.jpg",
+      "author": "Ritu choudhary",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Dilwara Temples",
+      "slug": "dilwara-temples",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dilwara_temple_at_mount_abu.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dilwara_temple_at_mount_abu.jpg",
+      "author": "Malaiya",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Jantar Mantar, Jaipur",
+      "slug": "jantar-mantar-jaipur",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaipur_Jantar_Mantar_panorama_2011.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaipur_Jantar_Mantar_panorama_2011.jpg",
+      "author": "Sanyam Bahga",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Junagarh Fort, Bikaner",
+      "slug": "junagarh-fort-bikaner",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/20191211_Junagarh_Fort%2C_Bikaner%2C_India_1547_8077_DxO.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20191211_Junagarh_Fort,_Bikaner,_India_1547_8077_DxO.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Sam Sand Dunes",
+      "slug": "sam-sand-dunes",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sam_dunes_(Jaisalmer).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sam_dunes_(Jaisalmer).jpg",
+      "author": "Firoze Shakir",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Keoladeo National Park",
+      "slug": "keoladeo-national-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Keoladeo_National_Park_-_Bharatpur_029_(409155591).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Keoladeo_National_Park_-_Bharatpur_029_(409155591).jpg",
+      "author": "Koshy Koshy",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Taragarh Fort, Bundi",
+      "slug": "taragarh-fort-bundi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundi_Taragarh_Fort_06.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundi_Taragarh_Fort_06.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Ranakpur Jain Temple",
+      "slug": "ranakpur-jain-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jain_Temple_Ranakpur.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jain_Temple_Ranakpur.jpg",
+      "author": "Ingo Mehling",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "state": "Ladakh",
+  "batch": 11,
+  "generatedAt": "2026-10-11T13:52:35.673Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Pangong Tso",
+      "slug": "pangong-lake",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pangong_Tso_lake_banner.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pangong_Tso_lake_banner.jpg",
+      "author": "Flickr user",
+      "license": "CC BY 2.5",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Tso Moriri",
+      "slug": "tso-moriri-ladakh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ladakh_-_Tso_Moriri_Lake.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ladakh_-_Tso_Moriri_Lake.jpg",
+      "author": "CortoMaltese_1999",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Leh Palace",
+      "slug": "leh-palace",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Leh_Palace_-_Leh_-_Ladakh_-_View_from_Shanti_Stupa.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leh_Palace_-_Leh_-_Ladakh_-_View_from_Shanti_Stupa.jpg",
+      "author": "Sumit Das",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Shanti Stupa, Leh",
+      "slug": "shanti-stupa-leh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shanti_Stupa%2C_Leh%2C_20180814.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shanti_Stupa,_Leh,_20180814.jpg",
+      "author": "Yann Forget",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Thiksey Monastery",
+      "slug": "thiksey-monastery",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thiksey_Monastery%2C_Ladakh_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thiksey_Monastery,_Ladakh_01.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Hemis Monastery",
+      "slug": "hemis-monastery",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hemis_Monastery_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hemis_Monastery_01.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Diskit Monastery",
+      "slug": "diskit-monastery-nubra",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Buddha_big_foot_at_Diskit_Monastery%2C_Nubra_Valley%2C_Ladakh%2C_India_(2018).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buddha_big_foot_at_Diskit_Monastery,_Nubra_Valley,_Ladakh,_India_(2018).jpg",
+      "author": "Kunal",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Nubra Valley",
+      "slug": "nubra-valley-ladakh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shyok_river_at_Hunder%2C_Nubra_valley.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shyok_river_at_Hunder,_Nubra_valley.jpg",
+      "author": "Rupak Sarkar",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Magnetic Hill",
+      "slug": "magnetic-hill-ladakh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ladakh_-_Magnetic_Hill.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ladakh_-_Magnetic_Hill.jpg",
+      "author": "Gktambe at English Wikipedia",
+      "license": "Public domain",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Zanskar Valley",
+      "slug": "zanskar-valley-ladakh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zanskar_river_valley_near_Padum.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zanskar_river_valley_near_Padum.jpg",
+      "author": "Nick Park",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Lamayuru Monastery",
+      "slug": "lamayuru-monastery",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_enchanting_Lamayuru.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_enchanting_Lamayuru.JPG",
+      "author": "Aimy Dhankar",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Alchi Monastery",
+      "slug": "alchi-monastery",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchi_Monastery_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alchi_Monastery_01.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Hall of Fame, Leh",
+      "slug": "hall-of-fame-leh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kargil_War_Memorial_remembrance%2C_Hall_of_Fame_Museum%2C_Leh%2C_Ladakh%2C_India_(2013).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kargil_War_Memorial_remembrance,_Hall_of_Fame_Museum,_Leh,_Ladakh,_India_(2013).jpg",
+      "author": "Vinodtiwari2608",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Stok Palace Museum",
+      "slug": "stok-palace-museum",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stok_palau_1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stok_palau_1.jpg",
+      "author": "Baldiri",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Shey Palace",
+      "slug": "shey-palace-ladakh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shey_Palace%2C_Ladakh.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shey_Palace,_Ladakh.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Basgo Monastery",
+      "slug": "basgo-monastery-ladakh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Basgo_monastery%2C_Ladakh_(14664066301).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basgo_monastery,_Ladakh_(14664066301).jpg",
+      "author": "Christopher Michel",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Phugtal Monastery",
+      "slug": "phugtal-monastery-zanskar",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Phuktal_Monastery%2C_Zanskar%2C_Ladakh.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phuktal_Monastery,_Zanskar,_Ladakh.jpg",
+      "author": "Christopher Michel",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Khardung La",
+      "slug": "khardung-la-pass",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mountain_biking_Ladahk%2C_India_43037992_624b2b553f.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mountain_biking_Ladahk,_India_43037992_624b2b553f.jpg",
+      "author": "Steve Evans",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Drass War Memorial",
+      "slug": "drass-war-memorial-kargil",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kargil_War_Memorial_Drass_-1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kargil_War_Memorial_Drass_-1.jpg",
+      "author": "Lalitgupta isgec",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Suru Valley",
+      "slug": "suru-valley-kargil",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NunKun_panorama%2C_Kun_7089_m_as_seen_from_Suru_Valley_from_some_20%2C5_km_distance%2C_Detail_-_panoramio.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NunKun_panorama,_Kun_7089_m_as_seen_from_Suru_Valley_from_some_20,5_km_distance,_Detail_-_panoramio.jpg",
+      "author": "Henk Monster",
+      "license": "CC BY 3.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

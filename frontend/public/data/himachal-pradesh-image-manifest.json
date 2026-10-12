@@ -1,0 +1,222 @@
+[
+  {
+    "destination": "Shimla",
+    "slug": "shimla",
+    "cityOrDistrict": "Shimla District",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Christ_Church,_Shimla.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Christ_Church,_Shimla.jpg",
+    "author": "ShashankSharma2511",
+    "license": "CC BY 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Manali",
+    "slug": "manali",
+    "cityOrDistrict": "Kullu District",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Manali_City.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Manali_City.jpg",
+    "author": "Neerajsinghazm",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Dharamshala",
+    "slug": "dharamshala",
+    "cityOrDistrict": "Kangra District",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dharamshala_Cricket_Stadium.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dharamshala_Cricket_Stadium.jpg",
+    "author": "TheSereneRebel",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "McLeod Ganj",
+    "slug": "mcleod-ganj",
+    "cityOrDistrict": "Kangra District",
+    "category": "Spiritual",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Prayer_Wheels_at_Tsuglagkhang_Temple,_McLeod_Ganj.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Prayer_Wheels_at_Tsuglagkhang_Temple,_McLeod_Ganj.jpg",
+    "author": "Liz Highleyman",
+    "license": "CC BY 2.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Dalhousie",
+    "slug": "dalhousie",
+    "cityOrDistrict": "Chamba District",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dalhousie_view.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dalhousie_view.jpg",
+    "author": "Sabyk2001",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Khajjiar",
+    "slug": "khajjiar",
+    "cityOrDistrict": "Chamba District",
+    "category": "Meadow",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Khajjiar_lake.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Khajjiar_lake.jpg",
+    "author": "Wittystef",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Spiti Valley",
+    "slug": "spiti-valley",
+    "cityOrDistrict": "Lahaul and Spiti District",
+    "category": "Valley",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spiti_river_and_valley.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Spiti_river_and_valley.jpg",
+    "author": "Rupak Sarkar",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Key Monastery",
+    "slug": "key-monastery",
+    "cityOrDistrict": "Lahaul and Spiti District",
+    "category": "Monastery",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kee_monastery_Spiti_Valley_(edited).jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kee_monastery_Spiti_Valley_(edited).jpg",
+    "author": "Ksuryawanshi / UnpetitproleX / Aristeas",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Chandratal Lake",
+    "slug": "chandratal-lake",
+    "cityOrDistrict": "Lahaul and Spiti District",
+    "category": "Lake",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chandra_Tal_Lake.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Chandra_Tal_Lake.jpg",
+    "author": "Gupta.aayush22",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Rohtang Pass",
+    "slug": "rohtang-pass",
+    "cityOrDistrict": "Kullu District",
+    "category": "Mountain Pass",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rohtang_La_pass.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Rohtang_La_pass.jpg",
+    "author": "Nikhil Lute",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kullu Valley",
+    "slug": "kullu-valley",
+    "cityOrDistrict": "Kullu District",
+    "category": "Valley",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kullu_Valley_near_Manali,_Himachal_Pradesh,_India.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kullu_Valley_near_Manali,_Himachal_Pradesh,_India.jpg",
+    "author": "UnpetitproleX",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kasol",
+    "slug": "kasol",
+    "cityOrDistrict": "Kullu District",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kasol_Parvati_Valley.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kasol_Parvati_Valley.jpg",
+    "author": "Atulshishodia",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Bir Billing",
+    "slug": "bir-billing",
+    "cityOrDistrict": "Kangra District",
+    "category": "Adventure",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bir-Billing_Paragliding.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Bir-Billing_Paragliding.jpg",
+    "author": "Realanant 1995",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Tirthan Valley",
+    "slug": "tirthan-valley",
+    "cityOrDistrict": "Kullu District",
+    "category": "Valley",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tirthan_River_Rapids.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tirthan_River_Rapids.jpg",
+    "author": "Ankitwadhwa10",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Great Himalayan National Park",
+    "slug": "great-himalayan-national-park",
+    "cityOrDistrict": "Kullu District",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_great_himalayan_national_park.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:The_great_himalayan_national_park.jpg",
+    "author": "Amit Bohre",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Chitkul",
+    "slug": "chitkul",
+    "cityOrDistrict": "Kinnaur District",
+    "category": "Village",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chitkul,_Himachal_Pradesh.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Chitkul,_Himachal_Pradesh.jpg",
+    "author": "Footloosedev",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kalpa",
+    "slug": "kalpa",
+    "cityOrDistrict": "Kinnaur District",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalpa,_Kinnaur_District,_Himachal_Pradesh.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kalpa,_Kinnaur_District,_Himachal_Pradesh.JPG",
+    "author": "Manojkhurana",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Narkanda",
+    "slug": "narkanda",
+    "cityOrDistrict": "Shimla District",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Narkanda.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Narkanda.jpg",
+    "author": "Skmishraindia",
+    "license": "CC0 1.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Jibhi",
+    "slug": "jibhi",
+    "cityOrDistrict": "Kullu District",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jibhi_Waterfall,_Jibhi,_Himachal_Pradesh.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Jibhi_Waterfall,_Jibhi,_Himachal_Pradesh.jpg",
+    "author": "Rohan Pinto",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Chamba",
+    "slug": "chamba",
+    "cityOrDistrict": "Chamba District",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Laxminarayan_temple_of_Chamba.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Laxminarayan_temple_of_Chamba.jpg",
+    "author": "Kundansen",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  }
+]

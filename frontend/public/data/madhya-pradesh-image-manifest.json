@@ -1,0 +1,222 @@
+[
+  {
+    "destination": "Khajuraho Temples",
+    "slug": "khajuraho-temples",
+    "cityOrDistrict": "Chhatarpur",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandariya_Mahadev_Temple_Khajuraho.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kandariya_Mahadev_Temple_Khajuraho.jpg",
+    "author": "Anupammazumdar",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Sanchi Stupa",
+    "slug": "sanchi-stupa",
+    "cityOrDistrict": "Raisen",
+    "category": "Archaeological",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanchi_Stupa,_Sanchi.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Sanchi_Stupa,_Sanchi.jpg",
+    "author": "Achi28",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Bhimbetka Rock Shelters",
+    "slug": "bhimbetka-rock-shelters",
+    "cityOrDistrict": "Raisen",
+    "category": "Archaeological",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rock_Shelter_15,_Bhimbetka_02.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Rock_Shelter_15,_Bhimbetka_02.jpg",
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kanha National Park",
+    "slug": "kanha-national-park",
+    "cityOrDistrict": "Mandla and Balaghat",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiger_Munna_-_The_Fame_of_Kanha.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tiger_Munna_-_The_Fame_of_Kanha.jpg",
+    "author": "Dr. Satyabrata Ghosh",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Bandhavgarh National Park",
+    "slug": "bandhavgarh-national-park",
+    "cityOrDistrict": "Umaria",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bandhavgarh_Tiger_(3503896744).jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Bandhavgarh_Tiger_(3503896744).jpg",
+    "author": "Koshy Koshy",
+    "license": "CC BY 2.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Pench National Park",
+    "slug": "pench-national-park",
+    "cityOrDistrict": "Seoni and Chhindwara",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Collarwali_Tigress_of_Pench.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Collarwali_Tigress_of_Pench.jpg",
+    "author": "Nconnet",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Panna National Park",
+    "slug": "panna-national-park",
+    "cityOrDistrict": "Panna and Chhatarpur",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Panna_national_park.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Panna_national_park.jpg",
+    "author": "Shivamd2d",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Ujjain Mahakaleshwar Temple",
+    "slug": "ujjain-mahakaleshwar-temple",
+    "cityOrDistrict": "Ujjain",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahakaleshwar_Temple,_Ujjain.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Mahakaleshwar_Temple,_Ujjain.jpg",
+    "author": "Ashverse",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Omkareshwar Temple",
+    "slug": "omkareshwar-temple",
+    "cityOrDistrict": "Khandwa",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Omkareshwar_Temple_05.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Omkareshwar_Temple_05.jpg",
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Maheshwar Fort",
+    "slug": "maheshwar-fort",
+    "cityOrDistrict": "Khargone",
+    "category": "Fort",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Grand_Maheshwar_Fort.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Grand_Maheshwar_Fort.jpg",
+    "author": "Vinitmaha",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Mandu",
+    "slug": "mandu",
+    "cityOrDistrict": "Dhar",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jahaz_Mahal-Mandu.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Jahaz_Mahal-Mandu.JPG",
+    "author": "Abhishek Mishra",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Gwalior Fort",
+    "slug": "gwalior-fort",
+    "cityOrDistrict": "Gwalior",
+    "category": "Fort",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gwalior-Fort.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Gwalior-Fort.jpg",
+    "author": "Bhosleantra",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Orchha",
+    "slug": "orchha",
+    "cityOrDistrict": "Niwari",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chaturbhuj_Temple,_Orchha.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Chaturbhuj_Temple,_Orchha.jpg",
+    "author": "Yann Forget",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Bhedaghat Marble Rocks",
+    "slug": "bhedaghat-marble-rocks",
+    "cityOrDistrict": "Jabalpur",
+    "category": "Nature",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marble_Rocks_-_Jabalpur.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Marble_Rocks_-_Jabalpur.jpg",
+    "author": "Anshikasjv12",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Dhuandhar Falls",
+    "slug": "dhuandhar-falls",
+    "cityOrDistrict": "Jabalpur",
+    "category": "Waterfall",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhuandhar_Waterfall.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dhuandhar_Waterfall.jpg",
+    "author": "Anshikasjv12",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Pachmarhi",
+    "slug": "pachmarhi",
+    "cityOrDistrict": "Narmadapuram",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount_Dhupgarh,_Pachmarhi.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Mount_Dhupgarh,_Pachmarhi.jpg",
+    "author": "Kmohankar",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Chitrakoot",
+    "slug": "chitrakoot",
+    "cityOrDistrict": "Satna",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramghat_at_chitrakoot.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Ramghat_at_chitrakoot.jpg",
+    "author": "Engshubham",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Bhojpur Temple",
+    "slug": "bhojpur-temple",
+    "cityOrDistrict": "Raisen",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiva_Temple,_Bhojpur_01.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Shiva_Temple,_Bhojpur_01.jpg",
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Burhanpur",
+    "slug": "burhanpur",
+    "cityOrDistrict": "Burhanpur",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shahi_Qila,Burhanpur.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Shahi_Qila,Burhanpur.jpg",
+    "author": "Md iet",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kuno National Park",
+    "slug": "kuno-national-park",
+    "cityOrDistrict": "Sheopur and Morena",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kuno_river.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kuno_river.jpg",
+    "author": "M G Chandrasekr",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  }
+]

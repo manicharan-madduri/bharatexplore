@@ -1,0 +1,222 @@
+[
+  {
+    "destination": "Munnar",
+    "slug": "munnar",
+    "cityOrDistrict": "Idukki",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tea_Gardens_in_Munnar.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tea_Gardens_in_Munnar.jpg",
+    "author": "Ruben Joseph",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Alappuzha Backwaters",
+    "slug": "alappuzha-backwaters",
+    "cityOrDistrict": "Alappuzha",
+    "category": "Backwaters",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Make_Way_For_The_Houseboat!_-_Backwaters_of_Alappuzha.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Make_Way_For_The_Houseboat!_-_Backwaters_of_Alappuzha.jpg",
+    "author": "16paruljain",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Fort Kochi",
+    "slug": "fort-kochi",
+    "cityOrDistrict": "Ernakulam",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinese_fishing_nets_in_Fort_Kochi.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Chinese_fishing_nets_in_Fort_Kochi.jpg",
+    "author": "Sanjib Chaudhary",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Wayanad",
+    "slug": "wayanad",
+    "cityOrDistrict": "Wayanad",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Banasura_sagar_Dam.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Banasura_sagar_Dam.jpg",
+    "author": "Challiyan",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Thekkady",
+    "slug": "thekkady",
+    "cityOrDistrict": "Idukki",
+    "category": "Nature & Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thekkady_Lake.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Thekkady_Lake.jpg",
+    "author": "Kir360",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Periyar National Park",
+    "slug": "periyar-national-park",
+    "cityOrDistrict": "Idukki",
+    "category": "Wildlife Sanctuary",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Periyar_National_Park_01.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Periyar_National_Park_01.jpg",
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Varkala Cliff",
+    "slug": "varkala-cliff",
+    "cityOrDistrict": "Thiruvananthapuram",
+    "category": "Beach",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Varkala_Cliff.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Varkala_Cliff.jpg",
+    "author": "Emmanuel Dyan",
+    "license": "CC BY 2.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kovalam Beach",
+    "slug": "kovalam-beach",
+    "cityOrDistrict": "Thiruvananthapuram",
+    "category": "Beach",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kovalam_Beach.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kovalam_Beach.JPG",
+    "author": "BishkekRocks",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Athirappilly Waterfalls",
+    "slug": "athirappilly-waterfalls",
+    "cityOrDistrict": "Thrissur",
+    "category": "Waterfall",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Athirappilly_waterfalls.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Athirappilly_waterfalls.jpg",
+    "author": "Jayakrishnan.B",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kumarakom",
+    "slug": "kumarakom",
+    "cityOrDistrict": "Kottayam",
+    "category": "Backwaters",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kumarakom.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kumarakom.JPG",
+    "author": "Sulfis",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Bekal Fort",
+    "slug": "bekal-fort",
+    "cityOrDistrict": "Kasaragod",
+    "category": "Fort",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bekal_Fort,_Kerala.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Bekal_Fort,_Kerala.jpg",
+    "author": "Shafeeq Rahman",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Guruvayur Temple",
+    "slug": "guruvayur-temple",
+    "cityOrDistrict": "Thrissur",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Guruvayoor_Temple_1.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Guruvayoor_Temple_1.jpg",
+    "author": "Susmitanair",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Sree Padmanabhaswamy Temple",
+    "slug": "sree-padmanabhaswamy-temple",
+    "cityOrDistrict": "Thiruvananthapuram",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sree_Padmanabhaswamy_Temple.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Sree_Padmanabhaswamy_Temple.jpg",
+    "author": "Chiyaruchi",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Silent Valley National Park",
+    "slug": "silent-valley-national-park",
+    "cityOrDistrict": "Palakkad",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Silent_Valley_National_Park.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Silent_Valley_National_Park.jpg",
+    "author": "NISHAD.K.SALEEM",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Marari Beach",
+    "slug": "marari-beach",
+    "cityOrDistrict": "Alappuzha",
+    "category": "Beach",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marari_Beach_Shoreline.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Marari_Beach_Shoreline.JPG",
+    "author": "Mahendra M.",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Vagamon",
+    "slug": "vagamon",
+    "cityOrDistrict": "Idukki",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vagamon.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Vagamon.JPG",
+    "author": "Honeycrisp",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Ponmudi",
+    "slug": "ponmudi",
+    "cityOrDistrict": "Thiruvananthapuram",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ponmudi_hills_1.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Ponmudi_hills_1.jpg",
+    "author": "JVN5871",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kappad Beach",
+    "slug": "kappad-beach",
+    "cityOrDistrict": "Kozhikode",
+    "category": "Beach",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kappad_beach_kerala.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kappad_beach_kerala.jpg",
+    "author": "Dijaraj Nair",
+    "license": "CC BY-SA 2.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Thusharagiri Waterfalls",
+    "slug": "thusharagiri-waterfalls",
+    "cityOrDistrict": "Kozhikode",
+    "category": "Waterfall",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thusharagiri_Falls.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Thusharagiri_Falls.jpg",
+    "author": "esakhil",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Jatayu Earth's Center",
+    "slug": "jatayu-earths-center",
+    "cityOrDistrict": "Kollam",
+    "category": "Monument",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jatayu_Earth_Centre.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Jatayu_Earth_Centre.jpg",
+    "author": "athulnair",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  }
+]

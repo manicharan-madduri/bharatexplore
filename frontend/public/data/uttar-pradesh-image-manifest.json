@@ -1,0 +1,208 @@
+{
+  "state": "Uttar Pradesh",
+  "batch": 8,
+  "generatedAt": "2026-10-11T12:31:42.230Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Taj Mahal, Agra",
+      "slug": "taj-mahal",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal%2C_Agra%2C_India_edit2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg",
+      "author": "Muhammad Mahdi Karim",
+      "license": "GFDL / CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Agra Fort",
+      "slug": "agra-fort",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jahangiri_Mahal%2C_Agra_Fort.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jahangiri_Mahal,_Agra_Fort.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Fatehpur Sikri",
+      "slug": "fatehpur-sikri",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Buland_Darwaza_Fatehpur_Sikri.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buland_Darwaza_Fatehpur_Sikri.jpg",
+      "author": "Shashank.shekhar.1994",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Varanasi Ghats",
+      "slug": "varanasi-ghats",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Varanasi_Ghats_-_Morning.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Varanasi_Ghats_-_Morning.jpg",
+      "author": "Ken Wieland",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Kashi Vishwanath Temple, Varanasi",
+      "slug": "kashi-vishwanath-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kashi_Vishwanath_Corridor_Varanasi.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kashi_Vishwanath_Corridor_Varanasi.jpg",
+      "author": "Prime Minister's Office (GODL-India)",
+      "license": "GODL-India",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Sarnath",
+      "slug": "sarnath",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhamekh_Stupa%2C_Sarnath.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dhamekh_Stupa,_Sarnath.jpg",
+      "author": "Rangan Datta Wiki",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Ayodhya Ram Mandir",
+      "slug": "ayodhya-ram-mandir",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ayodhya_Ram_Mandir_Inauguration_Day_Picture.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ayodhya_Ram_Mandir_Inauguration_Day_Picture.jpg",
+      "author": "Prime Minister's Office (GODL-India)",
+      "license": "GODL-India",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Bara Imambara, Lucknow",
+      "slug": "bara-imambara-lucknow",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bara_Imambara_Lucknow_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bara_Imambara_Lucknow_India.jpg",
+      "author": "Muhammad Mahdi Karim",
+      "license": "GFDL / CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Chota Imambara, Lucknow",
+      "slug": "chota-imambara-lucknow",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chota_Imambara_Lucknow.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chota_Imambara_Lucknow.jpg",
+      "author": "Girish Kumar",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Rumi Darwaza, Lucknow",
+      "slug": "rumi-darwaza-lucknow",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rumi_Darwaza_Lucknow_UP.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rumi_Darwaza_Lucknow_UP.jpg",
+      "author": "Yashasvi Rastogi",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Krishna Janmabhoomi, Mathura",
+      "slug": "krishna-janmabhoomi-mathura",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Krishna_Janmasthan_Temple_Complex_Mathura.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krishna_Janmasthan_Temple_Complex_Mathura.jpg",
+      "author": "Manoj K",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Banke Bihari Temple, Vrindavan",
+      "slug": "banke-bihari-temple-vrindavan",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Banke_Bihari_Temple_Vrindavan.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banke_Bihari_Temple_Vrindavan.jpg",
+      "author": "Flickr upload bot",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Prem Mandir, Vrindavan",
+      "slug": "prem-mandir-vrindavan",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Prem_Mandir_Vrindavan_Night.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prem_Mandir_Vrindavan_Night.jpg",
+      "author": "KuwarOnline",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Triveni Sangam, Prayagraj",
+      "slug": "triveni-sangam-prayagraj",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Triveni_Sangam_Prayagraj_Boats.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Triveni_Sangam_Prayagraj_Boats.jpg",
+      "author": "Shashank.shekhar.1994",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Jhansi Fort",
+      "slug": "jhansi-fort",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jhansi_Fort_Entrance.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jhansi_Fort_Entrance.jpg",
+      "author": "Shashank.shekhar.1994",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Dudhwa National Park",
+      "slug": "dudhwa-national-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiger_in_Dudhwa_National_Park.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiger_in_Dudhwa_National_Park.jpg",
+      "author": "Kalyan Varma",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Kushinagar Mahaparinirvana Temple",
+      "slug": "kushinagar-mahaparinirvana-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Parinirvana_Stupa_and_Temple%2C_Kushinagar.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parinirvana_Stupa_and_Temple,_Kushinagar.jpg",
+      "author": "Girish Kumar",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Deogarh Dashavatara Temple, Lalitpur district",
+      "slug": "deogarh-dashavatara-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dashavatara_Temple_Deogarh_Front.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dashavatara_Temple_Deogarh_Front.jpg",
+      "author": "Nandhini.b",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Vindhyachal Dham, Mirzapur",
+      "slug": "vindhyachal-dham-mirzapur",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vindhyavasini_Temple_Vindhyachal.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vindhyavasini_Temple_Vindhyachal.jpg",
+      "author": "Shashank.shekhar.1994",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Sravasti Buddhist Archaeological Sites",
+      "slug": "sravasti-buddhist-archaeological-sites",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anathapindika_Stupa%2C_Jetavana%2C_Sravasti.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anathapindika_Stupa,_Jetavana,_Sravasti.jpg",
+      "author": "Rangan Datta Wiki",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+/* ============================================================
+   BharatExplore AI — Cinematic Glassmorphism Design System
+   Premium Travel Platform CSS — Global Variables & Base
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,700;0,800;1,700&display=swap');
+
+/* ─── Design Tokens ─────────────────────────────────────── */
+:root {
+  /* Dark Base Palette */
+  --bg-void:          #03070F;
+  --bg-deep:          #050B18;
+  --bg-base:          #070D1F;
+  --bg-surface:       #0A1128;
+  --bg-raised:        #0F172A;
+
+  /* Cinematic Ambient Background */
+  --bg-gradient: 
+    radial-gradient(ellipse 80% 60% at 10% 5%,  rgba(13, 148, 136, 0.22) 0%, transparent 55%),
+    radial-gradient(ellipse 60% 50% at 90% 90%,  rgba(14, 165, 233, 0.20) 0%, transparent 50%),
+    radial-gradient(ellipse 50% 70% at 50% 30%,  rgba(99, 102, 241, 0.12) 0%, transparent 60%),
+    radial-gradient(ellipse 100% 100% at 50% 50%, rgba(5, 11, 24, 0.95) 0%, #050B18 100%);
+
+  /* Glass Surface Tokens — 4 depth levels */
+  --glass-d0: rgba(255, 255, 255, 0.02);
+  --glass-d1: rgba(14, 22, 50, 0.55);
+  --glass-d2: rgba(14, 22, 50, 0.70);
+  --glass-d3: rgba(14, 22, 50, 0.85);
+  --glass-d4: rgba(14, 22, 50, 0.95);
+
+  /* Sidebar surface token */
+  --glass-surface: rgba(10, 17, 40, 0.92);
+
+  --glass-border-subtle:  rgba(255, 255, 255, 0.07);
+  --glass-border-base:    rgba(255, 255, 255, 0.12);
+  --glass-border-bright:  rgba(255, 255, 255, 0.20);
+  --glass-border-accent:  rgba(45, 212, 191, 0.40);
+  --glass-border-brand:   rgba(14, 165, 233, 0.40);
+
+  --glass-blur-sm:   blur(10px)  saturate(140%);
+  --glass-blur-md:   blur(18px)  saturate(160%);
+  --glass-blur-lg:   blur(28px)  saturate(180%);
+  --glass-blur-xl:   blur(40px)  saturate(200%);
+
+  /* Shadows — multi-layer for physical depth */
+  --shadow-none:   none;
+  --shadow-glow-teal:  0 0 20px rgba(45, 212, 191, 0.25);
+  --shadow-glow-blue:  0 0 20px rgba(14, 165, 233, 0.25);
+  --shadow-card:   0 2px 4px rgba(0,0,0,0.2), 0 8px 24px rgba(0,0,0,0.35), 0 0 0 1px rgba(255,255,255,0.06);
+  --shadow-card-hover: 0 4px 8px rgba(0,0,0,0.3), 0 16px 40px rgba(0,0,0,0.5), 0 0 0 1px rgba(45,212,191,0.3), 0 0 30px rgba(13,148,136,0.15);
+  --shadow-modal:  0 32px 64px rgba(0,0,0,0.7), 0 0 0 1px rgba(255,255,255,0.1);
+  --shadow-nav:    0 4px 24px rgba(0,0,0,0.4), 0 1px 0 rgba(255,255,255,0.06);
+
+  /* Brand Colors — Blue & Teal Accent System */
+  --color-brand:         #0EA5E9;   /* Electric Sky Blue */
+  --color-brand-dim:     rgba(14, 165, 233, 0.18);
+  --color-brand-hover:   #38BDF8;
+  --color-brand-glow:    rgba(14, 165, 233, 0.4);
+
+  --color-accent:        #2DD4BF;   /* Radiant Teal */
+  --color-accent-dim:    rgba(45, 212, 191, 0.15);
+  --color-accent-hover:  #5EEAD4;
+  --color-accent-glow:   rgba(45, 212, 191, 0.4);
+
+  --color-secondary:     #818CF8;   /* Indigo Violet — depth accent */
+  --color-tertiary:      #34D399;   /* Emerald green — nature accent */
+  --color-warm:          #F59E0B;   /* Amber — travel tips accent */
+  --color-warm-dim:      rgba(245, 158, 11, 0.15);
+
+  /* Hero gradient for headings */
+  --gradient-brand:  linear-gradient(135deg, #FFFFFF 0%, #93C5FD 40%, #2DD4BF 80%, #0EA5E9 100%);
+  --gradient-accent: linear-gradient(135deg, var(--color-brand) 0%, var(--color-accent) 100%);
+  --gradient-warm:   linear-gradient(135deg, #F59E0B 0%, #F97316 100%);
+
+  /* High Contrast Text */
+  --text-primary:   #F1F5F9;
+  --text-secondary: #CBD5E1;
+  --text-muted:     #64748B;
+  --text-subtle:    #334155;
+  --text-inverse:   #0F172A;
+
+  /* Border Radii */
+  --radius-xs:   4px;
+  --radius-sm:   8px;
+  --radius-md:   12px;
+  --radius-lg:   18px;
+  --radius-xl:   24px;
+  --radius-2xl:  32px;
+  --radius-full: 9999px;
+
+  /* Spacing Scale */
+  --space-1:  0.25rem;
+  --space-2:  0.5rem;
+  --space-3:  0.75rem;
+  --space-4:  1rem;
+  --space-5:  1.25rem;
+  --space-6:  1.5rem;
+  --space-8:  2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+
+  /* Typography */
+  --font-sans:    'Inter', system-ui, -apple-system, sans-serif;
+  --font-heading: 'Outfit', 'Inter', system-ui, sans-serif;
+  --font-display: 'Playfair Display', Georgia, serif;
+
+  /* Transitions */
+  --ease-out-expo:   cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out:     cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-spring:     cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  --transition-fast:   0.15s var(--ease-in-out);
+  --transition-normal: 0.3s  var(--ease-in-out);
+  --transition-slow:   0.5s  var(--ease-out-expo);
+  --transition-spring: 0.4s  var(--ease-spring);
+
+  /* Layout */
+  --max-width:  1280px;
+  --nav-height: 72px;
+}
+
+/* ─── Light Mode Theme Tokens ────────────────────────────── */
+[data-theme="light"] {
+  /* Light Base Palette — warm white foundation, clear elevation steps */
+  --bg-void:          #F0F4F8;
+  --bg-deep:          #F7F9FC;
+  --bg-base:          #FFFFFF;
+  --bg-surface:       #FFFFFF;
+  --bg-raised:        #FFFFFF;
+
+  /* Ambient background — subtle warm teal wash, not grey */
+  --bg-gradient:
+    radial-gradient(ellipse 70% 50% at 15% 10%,  rgba(13, 148, 136, 0.07) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 50% at 85% 85%,  rgba(14, 165, 233, 0.07) 0%, transparent 55%),
+    radial-gradient(ellipse 100% 100% at 50% 50%, rgba(247, 249, 252, 1)   0%, #F0F4F8 100%);
+
+  /* Glass surfaces — solid white with opacity, not translucent grey */
+  --glass-d0: rgba(255, 255, 255, 0.60);
+  --glass-d1: rgba(255, 255, 255, 0.92);
+  --glass-d2: rgba(255, 255, 255, 0.97);
+  --glass-d3: rgba(255, 255, 255, 1);
+  --glass-d4: rgba(255, 255, 255, 1);
+
+  /* Sidebar surface — explicit solid token used by sidebar.css */
+  --glass-surface: rgba(255, 255, 255, 0.97);
+
+  /* Borders — visible but not heavy */
+  --glass-border-subtle:  rgba(15, 23, 42, 0.07);
+  --glass-border-base:    rgba(15, 23, 42, 0.11);
+  --glass-border-bright:  rgba(15, 23, 42, 0.18);
+  --glass-border-accent:  rgba(13, 148, 136, 0.35);
+  --glass-border-brand:   rgba(14, 165, 233, 0.35);
+
+  /* Shadows — real elevation, not near-invisible */
+  --shadow-none:       none;
+  --shadow-glow-teal:  0 0 18px rgba(13, 148, 136, 0.12);
+  --shadow-glow-blue:  0 0 18px rgba(14, 165, 233, 0.12);
+  --shadow-card:       0 1px 3px rgba(15,23,42,0.06),
+                       0 4px 16px rgba(15,23,42,0.08),
+                       0 0 0 1px rgba(15,23,42,0.05);
+  --shadow-card-hover: 0 4px 8px  rgba(15,23,42,0.10),
+                       0 12px 32px rgba(15,23,42,0.13),
+                       0 0 0 1px rgba(13,148,136,0.20),
+                       0 0 24px rgba(13,148,136,0.08);
+  --shadow-modal:      0 20px 48px rgba(15,23,42,0.18),
+                       0 0 0 1px rgba(15,23,42,0.08);
+  --shadow-nav:        0 1px 0 rgba(15,23,42,0.06),
+                       0 4px 16px rgba(15,23,42,0.06);
+
+  /* Brand colours stay the same — they work on light backgrounds */
+  --color-brand:       #0284C7;   /* slightly deeper blue for light bg contrast */
+  --color-brand-dim:   rgba(2, 132, 199, 0.10);
+  --color-brand-hover: #0EA5E9;
+
+  --color-accent:      #0D9488;   /* deeper teal for light bg */
+  --color-accent-dim:  rgba(13, 148, 136, 0.10);
+  --color-accent-hover:#14B8A6;
+
+  /* Hero gradient — dark text on light bg */
+  --gradient-brand: linear-gradient(135deg, #0F172A 0%, #0284C7 50%, #0D9488 100%);
+
+  /* High-contrast text — WCAG AA compliant on white */
+  --text-primary:   #0F172A;   /* 18.1:1 on white */
+  --text-secondary: #1E293B;   /* 14.7:1 on white */
+  --text-muted:     #475569;   /*  5.9:1 on white — passes AA */
+  --text-subtle:    #64748B;   /*  4.6:1 on white — passes AA */
+  --text-inverse:   #F8FAFC;
+}
+
+/* ─── Reset ─────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ─── Base ───────────────────────────────────────────────── */
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--bg-gradient);
+  background-attachment: fixed;
+  background-color: var(--bg-deep);
+  color: var(--text-primary);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+/* ─── Typography ─────────────────────────────────────────── */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  color: var(--text-primary);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-family: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ─── Selection ──────────────────────────────────────────── */
+::selection {
+  background: var(--color-accent);
+  color: var(--text-inverse);
+}
+
+/* ─── Focus Visibility ───────────────────────────────────── */
+:focus-visible {
+  outline: 2px solid var(--color-accent) !important;
+  outline-offset: 3px !important;
+  border-radius: var(--radius-sm);
+}
+
+/* ─── Custom Scrollbar ───────────────────────────────────── */
+::-webkit-scrollbar        { width: 6px; height: 6px; }
+::-webkit-scrollbar-track  { background: var(--bg-void); }
+::-webkit-scrollbar-thumb  { background: rgba(45, 212, 191, 0.25); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(45, 212, 191, 0.5); }
+
+/* ─── Layout Utilities ───────────────────────────────────── */
+.container {
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--space-6);
+}
+
+@media (max-width: 640px) {
+  .container { padding: 0 var(--space-4); }
+}
+
+/* ─── Global Keyframe Animations ─────────────────────────── */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes shimmer {
+  0%   { background-position: -200% center; }
+  100% { background-position:  200% center; }
+}
+
+@keyframes skeletonPulse {
+  0%, 100% { opacity: 0.35; }
+  50%       { opacity: 0.7; }
+}
+
+@keyframes orbFloat {
+  0%, 100% { transform: translateY(0px) scale(1);    opacity: 0.6; }
+  33%       { transform: translateY(-18px) scale(1.04); opacity: 0.9; }
+  66%       { transform: translateY(8px) scale(0.97);  opacity: 0.5; }
+}
+
+@keyframes glowPulse {
+  0%, 100% { opacity: 0.6; }
+  50%       { opacity: 1; }
+}
+
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-20px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes heroReveal {
+  from { opacity: 0; transform: translateY(40px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+@keyframes borderShimmer {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes spinSlow {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+/* ─── Reduced Motion ─────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+[data-reduced-motion="true"] *,
+[data-reduced-motion="true"] *::before,
+[data-reduced-motion="true"] *::after {
+  animation-duration: 0.01ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.01ms !important;
+  scroll-behavior: auto !important;
+}
+

@@ -1,0 +1,208 @@
+{
+  "state": "Lakshadweep",
+  "batch": 10,
+  "generatedAt": "2026-10-11T13:36:10.225Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Agatti Island",
+      "slug": "agatti-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Agatti_island%2C_Lakshadweep.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agatti_island,_Lakshadweep.jpg",
+      "author": "icultist",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Bangaram Island",
+      "slug": "bangaram-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/LakshadweepIsland.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LakshadweepIsland.jpg",
+      "author": "Lenish Namath",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Kavaratti Island",
+      "slug": "kavaratti-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kavaratii.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kavaratii.jpg",
+      "author": "Mehdi Hassan",
+      "license": "CC BY-SA 2.5",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Minicoy Island",
+      "slug": "minicoy-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Minicoy_Island%2C_Lakshadweep.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minicoy_Island,_Lakshadweep.jpg",
+      "author": "Anand.himani18",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Kadmat Island",
+      "slug": "kadmat-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_beach_side_resort_at_Kadmat_Island%2C_Lakshadweep.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_beach_side_resort_at_Kadmat_Island,_Lakshadweep.jpg",
+      "author": "Manvendra Bhangui from Chennai, India",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Kalpeni Island",
+      "slug": "kalpeni-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tip_Beach_Kalpeni.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tip_Beach_Kalpeni.jpg",
+      "author": "Vaikoovery",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Andrott Island",
+      "slug": "andrott-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Underoot_Island_-_btv1b531431970.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Underoot_Island_-_btv1b531431970.jpg",
+      "author": "Mc Cluer, John. Cartographe du modèle",
+      "license": "Public domain",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Amini Island",
+      "slug": "amini-island",
+      "coverImageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "sourceUrl": "https://lakshadweep.gov.in",
+      "author": "Lakshadweep Administration",
+      "license": "Official Tourism",
+      "status": "UNRESOLVED"
+    },
+    {
+      "rank": 9,
+      "name": "Bitra Island",
+      "slug": "bitra-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ISS002-E-7261_-_View_of_Lakshadweep.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ISS002-E-7261_-_View_of_Lakshadweep.jpg",
+      "author": "NASA / Johnson Space Center",
+      "license": "Public domain",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Chetlat Island",
+      "slug": "chetlat-island",
+      "coverImageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "sourceUrl": "https://lakshadweep.gov.in",
+      "author": "Lakshadweep Administration",
+      "license": "Official Tourism",
+      "status": "UNRESOLVED"
+    },
+    {
+      "rank": 11,
+      "name": "Kiltan Island",
+      "slug": "kiltan-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Medical_evacuation_of_patients_from_Lakshadweep_and_Minicoy_Islands_by_Indian_Navy%2C_2016_(2).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medical_evacuation_of_patients_from_Lakshadweep_and_Minicoy_Islands_by_Indian_Navy,_2016_(2).jpg",
+      "author": "Indian Navy",
+      "license": "GODL-India",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Thinnakara Island",
+      "slug": "thinnakara-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sea_off_Bangaram_island%2C_Lakshadweep.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sea_off_Bangaram_island,_Lakshadweep.jpg",
+      "author": "https://www.flickr.com/photos/binux/",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Parali Island",
+      "slug": "parali-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bangaram_Island%2C_Lakshadweep_20160325-_DSC1780.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangaram_Island,_Lakshadweep_20160325-_DSC1780.jpg",
+      "author": "The.chhayachitrakar",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Suheli Par Island",
+      "slug": "suheli-par-island",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Admiralty_Chart_No_808_Seuheli_Islands_and_Reef%2C_Published_1791.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_808_Seuheli_Islands_and_Reef,_Published_1791.jpg",
+      "author": "United Kingdom Hydrographic Office",
+      "license": "Public domain",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Pitti Bird Sanctuary",
+      "slug": "pitti-bird-sanctuary",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Snorkeling_on_Pitti_Island_in_Kalpeni.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snorkeling_on_Pitti_Island_in_Kalpeni.jpg",
+      "author": "Rudolph.A.furtado",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Golden Jubilee Museum, Agatti",
+      "slug": "golden-jubilee-museum-agatti",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden_Jubilee_museum_in_Agatti.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golden_Jubilee_museum_in_Agatti.jpg",
+      "author": "Rudolph.A.furtado",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Bangaram Lagoon",
+      "slug": "bangaram-lagoon",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sea_off_Bangaram_island%2C_Lakshadweep.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sea_off_Bangaram_island,_Lakshadweep.jpg",
+      "author": "https://www.flickr.com/photos/binux/",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Kavaratti Marine Aquarium",
+      "slug": "kavaratti-marine-aquarium",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fish_at_Kavaratti_Aquarium_(5799665573).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fish_at_Kavaratti_Aquarium_(5799665573).jpg",
+      "author": "Mike Prince from Bangalore, India",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Minicoy Lighthouse",
+      "slug": "minicoy-lighthouse",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse_worms_eye.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lighthouse_worms_eye.jpg",
+      "author": "Amog",
+      "license": "CC BY-SA 2.5",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Kalpeni Lagoon",
+      "slug": "kalpeni-lagoon",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue-Lagoons-In-Kalpeni-Lakshadweep.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue-Lagoons-In-Kalpeni-Lakshadweep.JPG",
+      "author": "Vaikoovery",
+      "license": "CC BY 3.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

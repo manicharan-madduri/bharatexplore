@@ -1,0 +1,208 @@
+{
+  "state": "Mizoram",
+  "batch": 6,
+  "generatedAt": "2026-10-11T07:54:32.924Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Aizawl",
+      "slug": "aizawl",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aizawl_panoramicview.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aizawl_panoramicview.jpg",
+      "author": "Coolcolney",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Reiek Tlang",
+      "slug": "reiek-tlang",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Reiek_peak.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reiek_peak.jpg",
+      "author": "Coolcolney",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Hmuifang",
+      "slug": "hmuifang",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hmuifang_Mountain_Side.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hmuifang_Mountain_Side.jpg",
+      "author": "Coolcolney",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Vantawng Falls",
+      "slug": "vantawng-falls",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vantawng_Falls%2C_Mizoram.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vantawng_Falls%2C_Mizoram.jpg",
+      "author": "Didini Tochhawng",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Phawngpui (Blue Mountain)",
+      "slug": "phawngpui-blue-mountain",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2007-blue-mtn-farpak.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2007-blue-mtn-farpak.jpg",
+      "author": "Yathin S Krishnappa",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Tam Dil Lake",
+      "slug": "tam-dil-lake",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tam_Dil.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tam_Dil.jpg",
+      "author": "Coolcolney",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Tuirihiau Falls",
+      "slug": "tuirihiau-falls",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuirihiau_falls%2C_Mizoram.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tuirihiau_falls%2C_Mizoram.jpg",
+      "author": "Didini Tochhawng",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Falkawn Heritage Village",
+      "slug": "falkawn-heritage-village",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Falkawn_Village%2C_Mizoram%2C_Aizawl_india._Mizoram_history%2C_falkawn_medical_hospital_zmc%2C_mizoram_state_museum%2C_falkawn_khua%2C_mizoram%2C_Aizawl_(54214694354).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falkawn_Village,_Mizoram,_Aizawl_india._Mizoram_history,_falkawn_medical_hospital_zmc,_mizoram_state_museum,_falkawn_khua,_mizoram,_Aizawl_(54214694354).jpg",
+      "author": "chhanchhana Zote Hmar",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Solomon's Temple",
+      "slug": "solomons-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Solomon%27s_Temple%2C_Aizawl%2C_Mizoram%2C_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Solomon%27s_Temple,_Aizawl,_Mizoram,_India.jpg",
+      "author": "Kohhran Thianghlim",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Dampa Tiger Reserve",
+      "slug": "dampa-tiger-reserve",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dampa_Tiger_Reserve_Forest.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dampa_Tiger_Reserve_Forest.jpg",
+      "author": "Coolcolney",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Serchhip",
+      "slug": "serchhip",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Serchhip_Zawlpui.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serchhip_Zawlpui.jpg",
+      "author": "Lpachuau",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Lunglei",
+      "slug": "lunglei",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lunglei%2C_Mizoram_-_panoramio.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lunglei,_Mizoram_-_panoramio.jpg",
+      "author": "R london",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Champhai",
+      "slug": "champhai",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Champhai%2C_Mizoram%2C_from_south%2C_with_Zotlang_in_the_foreground.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Champhai,_Mizoram,_from_south,_with_Zotlang_in_the_foreground.jpg",
+      "author": "Bogman",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Khawnglung Wildlife Sanctuary",
+      "slug": "khawnglung-wildlife-sanctuary",
+      "coverImageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "sourceUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "author": "BharatExplore AI / Wikimedia",
+      "license": "CC BY-SA",
+      "status": "UNRESOLVED"
+    },
+    {
+      "rank": 15,
+      "name": "Murlen National Park",
+      "slug": "murlen-national-park",
+      "coverImageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "sourceUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "author": "BharatExplore AI / Wikimedia",
+      "license": "CC BY-SA",
+      "status": "UNRESOLVED"
+    },
+    {
+      "rank": 16,
+      "name": "Lengteng Wildlife Sanctuary",
+      "slug": "lengteng-wildlife-sanctuary",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ashy-throated_Wabler_Phylloscopus_maculipennis_Lengteng_WLS_by_Dr._Raju_Kasambe.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ashy-throated_Wabler_Phylloscopus_maculipennis_Lengteng_WLS_by_Dr._Raju_Kasambe.jpg",
+      "author": "Dr. Raju Kasambe",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Saitual",
+      "slug": "saitual",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Saitual.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saitual.jpg",
+      "author": "Coolcolney",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Thenzawl",
+      "slug": "thenzawl",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thenzawl_18_hole_golf_course.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thenzawl_18_hole_golf_course.jpg",
+      "author": "Joseph Lalrintluanga",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Tlawng River viewpoints",
+      "slug": "tlawng-river-viewpoints",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tlawng_River.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tlawng_River.JPG",
+      "author": "Coolcolney",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Mizoram State Museum",
+      "slug": "mizoram-state-museum",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mizoram_State_Museum_-_3.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mizoram_State_Museum_-_3.jpg",
+      "author": "Irina Gelbukh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

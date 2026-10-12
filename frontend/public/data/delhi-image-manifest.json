@@ -1,0 +1,208 @@
+{
+  "state": "Delhi",
+  "batch": 11,
+  "generatedAt": "2026-10-11T13:52:35.660Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Red Fort",
+      "slug": "red-fort-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lal_Qila_(Red_Fort)_in_Delhi.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lal_Qila_(Red_Fort)_in_Delhi.jpg",
+      "author": "A.Savin",
+      "license": "FAL",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Qutub Minar",
+      "slug": "qutub-minar",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Qutb_Minar_2011.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qutb_Minar_2011.jpg",
+      "author": "Sfu",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Humayun's Tomb",
+      "slug": "humayuns-tomb-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tomb_of_Humayun%2C_Delhi.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tomb_of_Humayun,_Delhi.jpg",
+      "author": "Muhammad Mahdi Karim",
+      "license": "GFDL 1.2",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "India Gate",
+      "slug": "india-gate-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/India_Gate_1_(New_Delhi).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:India_Gate_1_(New_Delhi).jpg",
+      "author": "Subeesh Balan",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Lotus Temple",
+      "slug": "lotus-temple-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bahai_Lotus_temple_in_Delhi%2C_India.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bahai_Lotus_temple_in_Delhi,_India.JPG",
+      "author": "Kylelovesyou",
+      "license": "Public domain",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Akshardham Temple",
+      "slug": "akshardham-temple-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Akshardham_Delhi.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akshardham_Delhi.jpg",
+      "author": "Swaminarayan Sanstha",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Jama Masjid",
+      "slug": "jama-masjid-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jama_Masjid%2C_Delhi.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jama_Masjid,_Delhi.jpg",
+      "author": "Muhammad Mahdi Karim",
+      "license": "GFDL 1.2",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Purana Qila",
+      "slug": "purana-qila-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Purana_Qila_ramparts%2C_Delhi.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Purana_Qila_ramparts,_Delhi.jpg",
+      "author": "Varun Shiv Kapur",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Safdarjung Tomb",
+      "slug": "safdarjung-tomb-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tomb_of_Safdarjung_in_Delhi.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tomb_of_Safdarjung_in_Delhi.jpg",
+      "author": "Dey.sandip",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Lodhi Garden",
+      "slug": "lodhi-garden-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lodhi_Garden_Tomb_2019.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lodhi_Garden_Tomb_2019.jpg",
+      "author": "Tarun Kumar Sambhariya",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Jantar Mantar, Delhi",
+      "slug": "jantar-mantar-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jantar_Mantar_New_Delhi.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jantar_Mantar_New_Delhi.jpg",
+      "author": "Subeesh Balan",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Rashtrapati Bhavan visitor area",
+      "slug": "rashtrapati-bhavan-visitor-area",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rashtrapati_Bhavan%2C_the_President_of_India's_official_residence_in_New_Delhi.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rashtrapati_Bhavan,_the_President_of_India's_official_residence_in_New_Delhi.jpg",
+      "author": "Matthew Logelin",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "National Museum, New Delhi",
+      "slug": "national-museum-new-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/India_national_museum_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:India_national_museum_01.jpg",
+      "author": "Miya.m",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "National Rail Museum",
+      "slug": "national-rail-museum-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/National-Rail-Museum-Entr%C3%A9e.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National-Rail-Museum-Entr%C3%A9e.JPG",
+      "author": "Bruno Corpet (Quoique)",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Gandhi Smriti",
+      "slug": "gandhi-smriti-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahatma_Gandhi's_statue_at_Gandhi_Smriti_Museum_(Birla_House)%2C_New_Delhi.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahatma_Gandhi's_statue_at_Gandhi_Smriti_Museum_(Birla_House),_New_Delhi.jpg",
+      "author": "Hideyuki KAMON",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Agrasen ki Baoli",
+      "slug": "agrasen-ki-baoli-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Agrasen_Ki_Baoli-New_Delhi-Delhi-DSC02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agrasen_Ki_Baoli-New_Delhi-Delhi-DSC02.jpg",
+      "author": "Vi.vipin",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Hauz Khas Complex",
+      "slug": "hauz-khas-complex-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hauz_Khas_Complex.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hauz_Khas_Complex.JPG",
+      "author": "Join2manish",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Tughlaqabad Fort",
+      "slug": "tughlaqabad-fort-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tughlaqabad_fort-delhi-delhi-DSC.003.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tughlaqabad_fort-delhi-delhi-DSC.003.jpg",
+      "author": "Mittal.abhigyaa",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Garden of Five Senses",
+      "slug": "garden-of-five-senses-delhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sun_clock_inside_the_Garden_of_Five_Senses.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sun_clock_inside_the_Garden_of_Five_Senses.jpg",
+      "author": "Sanskari",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Mehrauli Archaeological Park",
+      "slug": "mehrauli-archaeological-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tomb_of_Jamali_Kamali%2C_Mehrauli_Archeological_Park%2C_New_Delhi%2C_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tomb_of_Jamali_Kamali,_Mehrauli_Archeological_Park,_New_Delhi,_India.jpg",
+      "author": "Anupamg",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

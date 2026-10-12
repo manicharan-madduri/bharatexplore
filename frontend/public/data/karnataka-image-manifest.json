@@ -1,0 +1,222 @@
+[
+  {
+    "destination": "Hampi",
+    "slug": "hampi",
+    "cityOrDistrict": "Vijayanagara",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stone_Chariot_at_the_Vitthala_Temple_in_Hampi.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Stone_Chariot_at_the_Vitthala_Temple_in_Hampi.jpg",
+    "author": "Dineshkannambadi",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Mysore Palace",
+    "slug": "mysore-palace",
+    "cityOrDistrict": "Mysuru",
+    "category": "Palace",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mysore_Palace_eve_01.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Mysore_Palace_eve_01.jpg",
+    "author": "Sandeep patro",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Coorg",
+    "slug": "coorg",
+    "cityOrDistrict": "Kodagu",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_Mandalpatti_in_Coorg.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_Mandalpatti_in_Coorg.jpg",
+    "author": "RN Satyanarayana rao",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Chikmagalur",
+    "slug": "chikmagalur",
+    "cityOrDistrict": "Chikkamagaluru",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mullayanagiri_in_Chikmagalur_district_of_Karnataka.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Mullayanagiri_in_Chikmagalur_district_of_Karnataka.jpg",
+    "author": "RakeshRaju M",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Gokarna",
+    "slug": "gokarna",
+    "cityOrDistrict": "Uttara Kannada",
+    "category": "Beach",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Om_beach_Gokarna.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Om_beach_Gokarna.JPG",
+    "author": "Axis of eran",
+    "license": "CC0 1.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Jog Falls",
+    "slug": "jog-falls",
+    "cityOrDistrict": "Shivamogga",
+    "category": "Waterfall",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jog_falls,_Karnataka.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Jog_falls,_Karnataka.jpg",
+    "author": "Jishnu.sen",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Badami Cave Temples",
+    "slug": "badami-cave-temples",
+    "cityOrDistrict": "Bagalkot",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Badami_cave_temples_karnataka.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Badami_cave_temples_karnataka.jpg",
+    "author": "amara",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Pattadakal",
+    "slug": "pattadakal",
+    "cityOrDistrict": "Bagalkot",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Virupaksha_Temple,_Pattadakal,_Karnataka.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Virupaksha_Temple,_Pattadakal,_Karnataka.jpg",
+    "author": "Mukul Banerjee",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Aihole",
+    "slug": "aihole",
+    "cityOrDistrict": "Bagalkot",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Durga_Temple_of_Aihole.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Durga_Temple_of_Aihole.jpg",
+    "author": "Dgoutam",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Belur Chennakeshava Temple",
+    "slug": "belur-chennakeshava-temple",
+    "cityOrDistrict": "Hassan",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chennakeshava_Temple_at_Belur.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Chennakeshava_Temple_at_Belur.jpg",
+    "author": "Dineshkannambadi",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Halebidu Hoysaleswara Temple",
+    "slug": "halebidu-hoysaleswara-temple",
+    "cityOrDistrict": "Hassan",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hoysaleswara_temple,_Halebidu.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Hoysaleswara_temple,_Halebidu.jpg",
+    "author": "SHIVAPRAKASH",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Murudeshwar Temple",
+    "slug": "murudeshwar-temple",
+    "cityOrDistrict": "Uttara Kannada",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lord_Shiva_statue_at_Murudeshwara.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Lord_Shiva_statue_at_Murudeshwara.jpg",
+    "author": "Vivek Shrivastava",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Udupi Sri Krishna Temple",
+    "slug": "udupi-sri-krishna-temple",
+    "cityOrDistrict": "Udupi",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri_Krishna_Mutt,_Udupi.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Sri_Krishna_Mutt,_Udupi.jpg",
+    "author": "Shravan Kamath94",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Bandipur National Park",
+    "slug": "bandipur-national-park",
+    "cityOrDistrict": "Chamarajanagar",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Elephant_family_bandipur_national_park,_india.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Elephant_family_bandipur_national_park,_india.jpg",
+    "author": "PiolAtif",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Nagarhole National Park",
+    "slug": "nagarhole-national-park",
+    "cityOrDistrict": "Kodagu and Mysuru",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiger_from_Nagarhole_Tiger_Reserve,_Karnataka.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tiger_from_Nagarhole_Tiger_Reserve,_Karnataka.jpg",
+    "author": "Kabeerali bilal",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kabini",
+    "slug": "kabini",
+    "cityOrDistrict": "Mysuru",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kabini_reservoir.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kabini_reservoir.jpg",
+    "author": "Ashwin Kumar",
+    "license": "CC BY-SA 2.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Dandeli Wildlife Sanctuary",
+    "slug": "dandeli-wildlife-sanctuary",
+    "cityOrDistrict": "Uttara Kannada",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hornbill_at_Dandeli.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Hornbill_at_Dandeli.jpg",
+    "author": "Namratha Aroor",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Gol Gumbaz",
+    "slug": "gol-gumbaz",
+    "cityOrDistrict": "Vijayapura",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gol_Gumbaz_Landscape.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Gol_Gumbaz_Landscape.jpg",
+    "author": "Phanindra inabathini",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Bengaluru Palace",
+    "slug": "bengaluru-palace",
+    "cityOrDistrict": "Bengaluru Urban",
+    "category": "Palace",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bengaluru_Palace_Front_part.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Bengaluru_Palace_Front_part.jpg",
+    "author": "Shubham Shah",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "St. Mary's Island",
+    "slug": "st-marys-island",
+    "cityOrDistrict": "Udupi",
+    "category": "Island",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Basaltic_rock_formation_in_St_Mary's_Island,_Karnataka.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Basaltic_rock_formation_in_St_Mary%27s_Island,_Karnataka.jpg",
+    "author": "Bailbeedu",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  }
+]

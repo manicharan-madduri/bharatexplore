@@ -1,0 +1,208 @@
+{
+  "state": "Uttarakhand",
+  "batch": 9,
+  "generatedAt": "2026-10-11T13:13:54.307Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Kedarnath Temple",
+      "slug": "kedarnath-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kedarnath_Temple.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kedarnath_Temple.jpg",
+      "author": "Shaunak 98",
+      "license": "Public domain",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Badrinath Temple",
+      "slug": "badrinath-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Badrinath_temple_-_Uttarakhand.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Badrinath_temple_-_Uttarakhand.jpg",
+      "author": "Anupamg",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Gangotri Temple",
+      "slug": "gangotri-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gangotri_37.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gangotri_37.JPG",
+      "author": "Flickr user",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Yamunotri Temple",
+      "slug": "yamunotri-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yamunotri_temple_and_ashram.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yamunotri_temple_and_ashram.jpg",
+      "author": "Atarax42",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Valley of Flowers National Park",
+      "slug": "valley-of-flowers-national-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Valley_of_Flowers_National_Park_24.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valley_of_Flowers_National_Park_24.JPG",
+      "author": "Flickr user",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Hemkund Sahib",
+      "slug": "hemkund-sahib",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hemkund_Sahib_Gurudwara.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hemkund_Sahib_Gurudwara.jpg",
+      "author": "Japleenpasricha",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Auli",
+      "slug": "auli",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Auli_cable_car.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auli_cable_car.jpg",
+      "author": "Mandeep Thander",
+      "license": "CC BY-SA 2.5",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Nainital Lake",
+      "slug": "nainital-lake",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nainital%2C_Mall_Road.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nainital,_Mall_Road.jpg",
+      "author": "Extra999",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Jim Corbett National Park",
+      "slug": "jim-corbett-national-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_jungle_safari_in_Jhirna_Zone%2C_Jim_Corbett_National_Park.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_jungle_safari_in_Jhirna_Zone,_Jim_Corbett_National_Park.jpg",
+      "author": "Pradeep.c.chaudhary",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Mussoorie",
+      "slug": "mussoorie",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mussoorie_town%2C_a_hill_station_in_Dehradun_district_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mussoorie_town,_a_hill_station_in_Dehradun_district_01.jpg",
+      "author": "ArmouredCyborg",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Rishikesh",
+      "slug": "rishikesh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rishikesh%2C_Lakshman_Jhula.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rishikesh,_Lakshman_Jhula.jpg",
+      "author": "Flickr user",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Har Ki Pauri, Haridwar",
+      "slug": "har-ki-pauri-haridwar",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Har-ki-pauri%2C_Haridwar.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Har-ki-pauri,_Haridwar.JPG",
+      "author": "Flickr user",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Chopta",
+      "slug": "chopta",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chandrasila_RohiniBugiyal_view.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandrasila_RohiniBugiyal_view.jpg",
+      "author": "Siddhartha Ghosh",
+      "license": "Public domain",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Tungnath Temple",
+      "slug": "tungnath-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Worlds_Highest_Lord_Shiva_Temple_Way_Tungnath.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Worlds_Highest_Lord_Shiva_Temple_Way_Tungnath.jpg",
+      "author": "Varun Shiv Kapur",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Deoria Tal",
+      "slug": "deoria-tal",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Deoria_Tal_Chandrashila_Chaukamba reflection.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deoria_Tal_Chandrashila_Chaukamba reflection.jpg",
+      "author": "Flickr user",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Jageshwar Temple Complex",
+      "slug": "jageshwar-temple-complex",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jageshwar_Dham_Temple%2C_Almora_06.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jageshwar_Dham_Temple,_Almora_06.jpg",
+      "author": "Subhrajyoti07",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Pithoragarh",
+      "slug": "pithoragarh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pithoragarh_Fort.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pithoragarh_Fort.jpg",
+      "author": "Abhayjocee",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Munsiyari",
+      "slug": "munsiyari",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Panchchuli_Peaks%2C_near_Munsiyari%2C_Uttarakhand.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panchchuli_Peaks,_near_Munsiyari,_Uttarakhand.jpg",
+      "author": "Flickr user",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Tehri Lake",
+      "slug": "tehri-lake",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tehri_Dam_surrounding_area_of_Uttarakhand_WTK20150913-DSC_0030.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tehri_Dam_surrounding_area_of_Uttarakhand_WTK20150913-DSC_0030.jpg",
+      "author": "WTK",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Katarmal Sun Temple",
+      "slug": "katarmal-sun-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sun_Temple_Katarmal_Almora_3.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sun_Temple_Katarmal_Almora_3.jpg",
+      "author": "Maneesh Kumar",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

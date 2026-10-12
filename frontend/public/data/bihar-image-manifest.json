@@ -1,0 +1,222 @@
+[
+  {
+    "destination": "Mahabodhi Temple, Bodh Gaya",
+    "slug": "mahabodhi-temple-bodh-gaya",
+    "cityOrDistrict": "Gaya",
+    "category": "Religious",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahabodhitemple.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Mahabodhitemple.jpg",
+    "author": "Bpilgrim",
+    "license": "CC BY-SA 2.5",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Nalanda Mahavihara",
+    "slug": "nalanda-mahavihara",
+    "cityOrDistrict": "Nalanda",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Temple_No.-_3%2C_Nalanda_Archaeological_Site.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Temple_No.-_3,_Nalanda_Archaeological_Site.jpg",
+    "author": "Odantapuribs",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Rajgir",
+    "slug": "rajgir",
+    "cityOrDistrict": "Nalanda",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyclopean_Wall_of_Rajgir.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Cyclopean_Wall_of_Rajgir.jpg",
+    "author": "Rohit Sharma",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Vaishali",
+    "slug": "vaishali",
+    "cityOrDistrict": "Vaishali",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ananda_Stupa_with_Ashok_lion_pillar_at_vaishali%2C_Bihar_02.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Ananda_Stupa_with_Ashok_lion_pillar_at_vaishali,_Bihar_02.jpg",
+    "author": "Rohit Sharma",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Vikramshila University Ruins",
+    "slug": "vikramshila-university-ruins",
+    "cityOrDistrict": "Bhagalpur",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vikramashila_University_Landscape_front_view.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Vikramashila_University_Landscape_front_view.jpg",
+    "author": "Spotplayerx",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Patna Sahib Gurudwara",
+    "slug": "patna-sahib-gurudwara",
+    "cityOrDistrict": "Patna",
+    "category": "Religious",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Takht_Sri_Patna_Sahib_01.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Takht_Sri_Patna_Sahib_01.jpg",
+    "author": "Shivamsetu",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Golghar",
+    "slug": "golghar",
+    "cityOrDistrict": "Patna",
+    "category": "Monument",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Golghar_patna_Bihar_India.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Golghar_patna_Bihar_India.jpg",
+    "author": "Deepak1408",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Barabar Caves",
+    "slug": "barabar-caves",
+    "cityOrDistrict": "Jehanabad",
+    "category": "Caves",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lomas_Rishi_entrance.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Lomas_Rishi_entrance.jpg",
+    "author": "Photo Dharma",
+    "license": "CC BY 2.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Pawapuri Jal Mandir",
+    "slug": "pawapuri-jal-mandir",
+    "cityOrDistrict": "Nalanda",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pawapuri_-_001_Temple_marking_Mahavira%27s_Passing_(9243092471).jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Pawapuri_-_001_Temple_marking_Mahavira%27s_Passing_(9243092471).jpg",
+    "author": "Anandajoti Bhikkhu (Photo Dharma)",
+    "license": "CC BY 2.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kesaria Stupa",
+    "slug": "kesaria-stupa",
+    "cityOrDistrict": "East Champaran",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kesariya.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kesariya.jpg",
+    "author": "Bpilgrim",
+    "license": "CC BY-SA 2.5",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Valmiki Tiger Reserve",
+    "slug": "valmiki-tiger-reserve",
+    "cityOrDistrict": "West Champaran",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Himalayan_Foot_Hills%2C_Valmikinagar%2C_Bihar%2C_India.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Himalayan_Foot_Hills,_Valmikinagar,_Bihar,_India.jpg",
+    "author": "Mywikieditbh",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Rohtasgarh Fort",
+    "slug": "rohtasgarh-fort",
+    "cityOrDistrict": "Rohtas",
+    "category": "Fort",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rohtasgarh_Fort_Entrance.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Rohtasgarh_Fort_Entrance.jpg",
+    "author": "Mariyosh",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Sher Shah Suri Tomb",
+    "slug": "sher-shah-suri-tomb",
+    "cityOrDistrict": "Rohtas",
+    "category": "Monument",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sher_Shah_Suri_Tomb.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Sher_Shah_Suri_Tomb.jpg",
+    "author": "Nandanupadhyay",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Mundeshwari Temple",
+    "slug": "mundeshwari-temple",
+    "cityOrDistrict": "Kaimur",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maa_Mundeshwari_Devi.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Maa_Mundeshwari_Devi.jpg",
+    "author": "Lakshya",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kanwar Lake Bird Sanctuary",
+    "slug": "kanwar-lake-bird-sanctuary",
+    "cityOrDistrict": "Begusarai",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanwar_Lake_Begusarai_by_Ziddi_Photowala.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kanwar_Lake_Begusarai_by_Ziddi_Photowala.jpg",
+    "author": "Ziddi Photowala",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kakolat Waterfall",
+    "slug": "kakolat-waterfall",
+    "cityOrDistrict": "Nawada",
+    "category": "Waterfall",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kakolat_waterfall.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kakolat_waterfall.jpg",
+    "author": "Vivekobey",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Vishwa Shanti Stupa, Rajgir",
+    "slug": "vishwa-shanti-stupa-rajgir",
+    "cityOrDistrict": "Nalanda",
+    "category": "Monument",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rajgir_-_046_Side_View_(9242059259).jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Rajgir_-_046_Side_View_(9242059259).jpg",
+    "author": "Anandajoti Bhikkhu (Photo Dharma)",
+    "license": "CC BY 2.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Bihar Museum",
+    "slug": "bihar-museum",
+    "cityOrDistrict": "Patna",
+    "category": "Museum",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bihar_Museum.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Bihar_Museum.jpg",
+    "author": "Shivamsetu",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Maner Sharif",
+    "slug": "maner-sharif",
+    "cityOrDistrict": "Patna",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tomb_of_Shah_Makhadum_Daulat_Maneri_and_Ibrahim_Khan.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tomb_of_Shah_Makhadum_Daulat_Maneri_and_Ibrahim_Khan.jpg",
+    "author": "Saurabh Sharan (Saish746)",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Lauria Nandangarh",
+    "slug": "lauria-nandangarh",
+    "cityOrDistrict": "West Champaran",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lauria_Nandangarh_pillar_of_Ashoka_side_view.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Lauria_Nandangarh_pillar_of_Ashoka_side_view.jpg",
+    "author": "M. Vidyut Prakash Maurya",
+    "license": "CC BY 2.0",
+    "status": "VERIFIED"
+  }
+]

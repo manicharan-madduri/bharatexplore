@@ -1,0 +1,208 @@
+{
+  "state": "Punjab",
+  "batch": 7,
+  "generatedAt": "2026-10-11T08:24:04.170Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Golden Temple",
+      "slug": "golden-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sikh_pilgrim_at_the_Golden_Temple_(Harmandir_Sahib)_in_Amritsar%2C_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sikh_pilgrim_at_the_Golden_Temple_(Harmandir_Sahib)_in_Amritsar,_India.jpg",
+      "author": "Paulrudd",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Jallianwala Bagh",
+      "slug": "jallianwala-bagh",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_of_Jallianwala_Bagh-IMG_6348.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_of_Jallianwala_Bagh-IMG_6348.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Wagah–Attari Border",
+      "slug": "wagah-attari-border",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/International_border_at_Wagah_-_evening_flag_lowering_ceremony.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:International_border_at_Wagah_-_evening_flag_lowering_ceremony.jpg",
+      "author": "Stefan Krasowski",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Partition Museum",
+      "slug": "partition-museum",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Imposing_entrance_arch_to_the_Town_Hall-_Partition_Museum_in_Amritsar_(24074291387).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imposing_entrance_arch_to_the_Town_Hall-_Partition_Museum_in_Amritsar_(24074291387).jpg",
+      "author": "Richard Mortel",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Anandpur Sahib",
+      "slug": "anandpur-sahib",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Photograph_of_Takht_Kesgarh_Sahib%2C_Anandpur_Sahib%2C_Punjab%2C_India%2C_ca.1952_02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Photograph_of_Takht_Kesgarh_Sahib,_Anandpur_Sahib,_Punjab,_India,_ca.1952_02.jpg",
+      "author": "Government of India / Public Domain",
+      "license": "Public domain",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Virasat-e-Khalsa",
+      "slug": "virasat-e-khalsa",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Khalsa_Heritage_Memorial_176_Edit.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khalsa_Heritage_Memorial_176_Edit.jpg",
+      "author": "Sanyam Bahga",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Qila Mubarak, Patiala",
+      "slug": "qila-mubarak-patiala",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Qila_Mubarak%2C_Patiala.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qila_Mubarak,_Patiala.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Sheesh Mahal, Patiala",
+      "slug": "sheesh-mahal-patiala",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheesh_Mahal%2C_Patiala.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sheesh_Mahal,_Patiala.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Gobindgarh Fort",
+      "slug": "gobindgarh-fort",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gobindgarh_fort%2C_Amritsar%2C_Punjab%2C_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gobindgarh_fort,_Amritsar,_Punjab,_India.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Durgiana Temple",
+      "slug": "durgiana-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Durgiana_Temple%2C_Amritsar.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Durgiana_Temple,_Amritsar.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Harike Wetland",
+      "slug": "harike-wetland",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Harike.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harike.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Ranjit Sagar Dam",
+      "slug": "ranjit-sagar-dam",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ranjit_Sagar_Dam_1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ranjit_Sagar_Dam_1.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Bathinda Qila Mubarak",
+      "slug": "bathinda-qila-mubarak",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Qila_Mubarak_in_Bathinda.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qila_Mubarak_in_Bathinda.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Fateh Burj",
+      "slug": "fateh-burj",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fateh_Burj_%2C_village_Chappar_Chiri_%2CMohali%2C_Punjab.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fateh_Burj_,_village_Chappar_Chiri_,Mohali,_Punjab.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Sultanpur Lodhi",
+      "slug": "sultanpur-lodhi",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gurdwara_Shri_Ber_Sahib.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gurdwara_Shri_Ber_Sahib.jpg",
+      "author": "Balraj Singh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Khatkar Kalan",
+      "slug": "khatkar-kalan",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shaheed_Bhagat_Singh_Ancestral_Home.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shaheed_Bhagat_Singh_Ancestral_Home.jpg",
+      "author": "Sripathroy",
+      "license": "CC0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Pushpa Gujral Science City",
+      "slug": "pushpa-gujral-science-city",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pushpa_Gujral_Science_City_-_Outside_View_of_IMAX_Theater.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pushpa_Gujral_Science_City_-_Outside_View_of_IMAX_Theater.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Jagatjit Palace, Kapurthala",
+      "slug": "jagatjit-palace-kapurthala",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jagatjit_Palace_-_Kapurthala_Sainik_School.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jagatjit_Palace_-_Kapurthala_Sainik_School.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Ram Tirath Temple",
+      "slug": "ram-tirath-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhagwan_Valmiki_Tirath_Sthal_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhagwan_Valmiki_Tirath_Sthal_01.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Hussainiwala National Martyrs Memorial",
+      "slug": "hussainiwala-national-martyrs-memorial",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hussainiwala_National_Martyrs_Memorial%2C_Ferozepur.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hussainiwala_National_Martyrs_Memorial,_Ferozepur.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

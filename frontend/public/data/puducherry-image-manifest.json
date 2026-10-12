@@ -1,0 +1,230 @@
+{
+  "state": "Puducherry",
+  "batch": 12,
+  "generatedAt": "2026-10-11T14:35:37.047Z",
+  "totalDestinations": 20,
+  "verifiedDestinations": 18,
+  "unresolvedDestinations": 2,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Promenade Beach",
+      "slug": "promenade-beach-puducherry",
+      "region": "Puducherry",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rock_Beach_in_Puducherry.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rock_Beach_in_Puducherry.jpg",
+      "author": "Devanshi07",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Sri Aurobindo Ashram",
+      "slug": "sri-aurobindo-ashram",
+      "region": "Puducherry",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri_Aurobindo_Ashram%2C_a_spiritual_ashram_of_Sri_Aurobindo_in_Pondicherry_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sri_Aurobindo_Ashram,_a_spiritual_ashram_of_Sri_Aurobindo_in_Pondicherry_01.jpg",
+      "author": "Pinakpani",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Auroville and Matrimandir visitor area",
+      "slug": "auroville-matrimandir",
+      "region": "Puducherry",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Matrimandir_Auroville_Pondicherry.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matrimandir_Auroville_Pondicherry.jpg",
+      "author": "Kpsudeep",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "French Quarter (White Town)",
+      "slug": "french-quarter-white-town",
+      "region": "Puducherry",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Streets_of_White_town%2C_Puducherry.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Streets_of_White_town,_Puducherry.jpg",
+      "author": "iMahesh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Manakula Vinayagar Temple",
+      "slug": "manakula-vinayagar-temple",
+      "region": "Puducherry",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Manakula_Vinayagar_Temple_2024.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manakula_Vinayagar_Temple_2024.jpg",
+      "author": "Kiran 20mithra",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Basilica of the Sacred Heart of Jesus",
+      "slug": "basilica-of-the-sacred-heart-puducherry",
+      "region": "Puducherry",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sacred_Heart_Basillica_church%2C_Puducherry.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Sacred_Heart_Basillica_church,_Puducherry.jpg",
+      "author": "iMahesh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Chunnambar Boat House",
+      "slug": "chunnambar-boat-house",
+      "region": "Puducherry",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paradise_beach.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paradise_beach.jpg",
+      "author": "Vtbijoy",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Serenity Beach",
+      "slug": "serenity-beach-puducherry",
+      "region": "Puducherry",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Serenity_Beach_at_Kottakuppam%2C_Tamil_Nadu_near_Pondicherry_14.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serenity_Beach_at_Kottakuppam,_Tamil_Nadu_near_Pondicherry_14.jpg",
+      "author": "Pinakpani",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Bharathi Park",
+      "slug": "bharathi-park-puducherry",
+      "region": "Puducherry",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aayi_Mandapam_in_Bharathi_Park%2C_Puducherry.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aayi_Mandapam_in_Bharathi_Park,_Puducherry.jpg",
+      "author": "iMahesh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Immaculate Conception Cathedral",
+      "slug": "immaculate-conception-cathedral-puducherry",
+      "region": "Puducherry",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Immaculate_Conception_Cathedral%2C_Pondicherry.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Immaculate_Conception_Cathedral,_Pondicherry.jpg",
+      "author": "Nitesh (CIS-A2K)",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Thirunallar Dharbaranyeswarar Temple",
+      "slug": "thirunallar-dharbaranyeswarar-temple",
+      "region": "Karaikal",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thirunallar_Dharbaranyeeswarar_Temple_and_Tank.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thirunallar_Dharbaranyeeswarar_Temple_and_Tank.jpg",
+      "author": "VasuVR",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Ousteri Lake",
+      "slug": "ousteri-lake-puducherry",
+      "region": "Puducherry",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ousteri_lake_Puducherry_evening.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ousteri_lake_Puducherry_evening.jpg",
+      "author": "Ashok Raj",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Arikamedu Archaeological Site",
+      "slug": "arikamedu-archaeological-site",
+      "region": "Puducherry",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Arikamedu-1-ariyanguppam-pondicherry-India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arikamedu-1-ariyanguppam-pondicherry-India.jpg",
+      "author": "Yercaud-elango",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Karaikal Beach",
+      "slug": "karaikal-beach",
+      "region": "Karaikal",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Karaikal_beach_sun_set.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karaikal_beach_sun_set.jpg",
+      "author": "Sriramsomu",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Karaikal Ammaiyar Temple",
+      "slug": "karaikal-ammaiyar-temple",
+      "region": "Karaikal",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Karaikal_Ammaiyar_temple.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karaikal_Ammaiyar_temple.JPG",
+      "author": "Jonas Buchholz (Jbuchholz)",
+      "license": "CC BY 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Mahe Walkway and waterfront",
+      "slug": "mahe-walkway-waterfront",
+      "region": "Mahe",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahe_walkway-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahe_walkway-01.jpg",
+      "author": "Prabhupuducherry",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "St. Teresa's Shrine, Mahe",
+      "slug": "st-teresas-shrine-mahe",
+      "region": "Mahe",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/St._Theresa_Shrine%2C_Mahe.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Theresa_Shrine,_Mahe.jpg",
+      "author": "Davidjose365",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Yanam Riverfront",
+      "slug": "yanam-riverfront",
+      "region": "Yanam",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yanam_Godavari_Ghat.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yanam_Godavari_Ghat.jpg",
+      "author": "Sudha1985",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Venkanna Babu Temple, Yanam",
+      "slug": "venkanna-babu-temple-yanam",
+      "region": "Yanam",
+      "coverImageUrl": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=800&q=80",
+      "sourceUrl": null,
+      "author": null,
+      "license": null,
+      "status": "UNRESOLVED"
+    },
+    {
+      "rank": 20,
+      "name": "Yanam Grand Mosque",
+      "slug": "yanam-grand-mosque",
+      "region": "Yanam",
+      "coverImageUrl": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=800&q=80",
+      "sourceUrl": null,
+      "author": null,
+      "license": null,
+      "status": "UNRESOLVED"
+    }
+  ]
+}

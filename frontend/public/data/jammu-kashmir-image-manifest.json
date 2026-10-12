@@ -1,0 +1,208 @@
+{
+  "state": "Jammu and Kashmir",
+  "batch": 11,
+  "generatedAt": "2026-10-11T13:52:35.672Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Dal Lake, Srinagar",
+      "slug": "dal-lake-srinagar",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dal_Lake%2C_Srinagar%2C_July_2012.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dal_Lake,_Srinagar,_July_2012.jpg",
+      "author": "Vineetmbbs",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Mughal Gardens, Srinagar",
+      "slug": "mughal-gardens-srinagar",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/India_-_Srinagar_-_032_-_sunset_at_Nishat_Bagh_Mughal_Gardens_HDR.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:India_-_Srinagar_-_032_-_sunset_at_Nishat_Bagh_Mughal_Gardens_HDR.jpg",
+      "author": "McKay Savage",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Shankaracharya Temple, Srinagar",
+      "slug": "shankaracharya-temple-srinagar",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shankaracharya_Temple_Srinagar.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shankaracharya_Temple_Srinagar.JPG",
+      "author": "Nvvchar",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Hazratbal Shrine",
+      "slug": "hazratbal-shrine-srinagar",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hazratbal_white_mosque.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hazratbal_white_mosque.jpg",
+      "author": "McKay Savage from London, UK",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Pari Mahal",
+      "slug": "pari-mahal-srinagar",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Srinagar_as_seen_from_Pari_Mahal..jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Srinagar_as_seen_from_Pari_Mahal..jpg",
+      "author": "Nadeem Hasan",
+      "license": "Public domain",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Gulmarg",
+      "slug": "gulmarg-kashmir",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gulmarg_Gondola%2C_Cable_Car.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gulmarg_Gondola,_Cable_Car.JPG",
+      "author": "Skywayman9",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Pahalgam",
+      "slug": "pahalgam-kashmir",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pahalgam_Valley.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pahalgam_Valley.jpg",
+      "author": "KennyOMG",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Sonamarg",
+      "slug": "sonamarg-kashmir",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sonamarg_6.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sonamarg_6.jpg",
+      "author": "Harshruti",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Betaab Valley",
+      "slug": "betaab-valley-pahalgam",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Betaab_Valley.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Betaab_Valley.jpg",
+      "author": "Nandanupadhyay",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Yusmarg",
+      "slug": "yusmarg-kashmir",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yousmarg.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yousmarg.jpg",
+      "author": "Suhail Skindar Sofi",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Doodhpathri",
+      "slug": "doodhpathri-kashmir",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Doodhpathri_-_A_dirt_road_goes_through_the_many_meadows_southwest_Jammu_Kashmir_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doodhpathri_-_A_dirt_road_goes_through_the_many_meadows_southwest_Jammu_Kashmir_India.jpg",
+      "author": "Ankur P from Pune, India",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Martand Sun Temple, Anantnag",
+      "slug": "martand-sun-temple-anantnag",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Martand_SunTemple_(Ranbirpura_Anantnag)_writetodgatgmaildotcom_2491.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martand_SunTemple_(Ranbirpura_Anantnag)_writetodgatgmaildotcom_2491.jpg",
+      "author": "Divya Gupta",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Awantipora Ruins",
+      "slug": "awantipora-ruins-kashmir",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruins_of_Avantiswami_Temple_%2C_Awantipora%2C_J%26K%2CIndia.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruins_of_Avantiswami_Temple_,_Awantipora,_J&K,India.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Patnitop",
+      "slug": "patnitop-jammu",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Patnitop_hill.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Patnitop_hill.jpg",
+      "author": "Saroj Kumar",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Vaishno Devi Temple, Katra",
+      "slug": "vaishno-devi-temple-katra",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_Katra_enroute_to_Maa_Vaishno_Devi_temple.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Katra_enroute_to_Maa_Vaishno_Devi_temple.JPG",
+      "author": "Wikice",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Bahu Fort, Jammu",
+      "slug": "bahu-fort-jammu",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bahu_Fort%2C_Jammu%2C_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bahu_Fort,_Jammu,_India.jpg",
+      "author": "Nvvchar",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Mubarak Mandi Palace, Jammu",
+      "slug": "mubarak-mandi-palace-jammu",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mubarak_Mandi_Palace(2).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mubarak_Mandi_Palace(2).jpg",
+      "author": "Abricot21",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Mansar Lake",
+      "slug": "mansar-lake-jammu",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fish-mansar-lake.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fish-mansar-lake.jpg",
+      "author": "Yashpalkatal",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Verinag Spring",
+      "slug": "verinag-spring-kashmir",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Octagonal_spring_Mughal_architecture_in_verinag_mughal_architecture.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Octagonal_spring_Mughal_architecture_in_verinag_mughal_architecture.jpg",
+      "author": "Mahi zahidi",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Dachigam National Park",
+      "slug": "dachigam-national-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hangul_at_Dachigam_National_Park.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hangul_at_Dachigam_National_Park.jpg",
+      "author": "Dr. Raju Kasambe",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

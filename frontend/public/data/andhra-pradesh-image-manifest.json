@@ -1,0 +1,222 @@
+[
+  {
+    "destination": "Tirumala Venkateswara Temple",
+    "slug": "tirumala-venkateswara-temple",
+    "cityOrDistrict": "Tirupati District",
+    "category": "Religious",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_View_of_Tirumala_Venkateswara_Temple.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:A_View_of_Tirumala_Venkateswara_Temple.JPG",
+    "author": "Adityamadhav83",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Araku Valley",
+    "slug": "araku-valley",
+    "cityOrDistrict": "Alluri Sitharama Raju District",
+    "category": "Nature",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Araku_valley_view.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Araku_valley_view.jpg",
+    "author": "Sunny8143536003",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Borra Caves",
+    "slug": "borra-caves",
+    "cityOrDistrict": "Alluri Sitharama Raju District",
+    "category": "Caves",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Borra_Caves_-_Andhra_Pradesh.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Borra_Caves_-_Andhra_Pradesh.jpg",
+    "author": "Bhim Chawhan",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Visakhapatnam Beachfront",
+    "slug": "visakhapatnam-beachfront",
+    "cityOrDistrict": "Visakhapatnam District",
+    "category": "Beach",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramakrishna_beach.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Ramakrishna_beach.jpg",
+    "author": "Jai kishan",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kailasagiri",
+    "slug": "kailasagiri",
+    "cityOrDistrict": "Visakhapatnam District",
+    "category": "Nature",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiva_Parvati_Statue_at_Kailasagiri,_Visakhapatnam.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_Statue_at_Kailasagiri,_Visakhapatnam.jpg",
+    "author": "Kashyap Kaki",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Simhachalam Temple",
+    "slug": "simhachalam-temple",
+    "cityOrDistrict": "Visakhapatnam District",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Simhachalam_Temple_in_Visakhapatnam.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Simhachalam_Temple_in_Visakhapatnam.jpg",
+    "author": "Billjones94",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Gandikota",
+    "slug": "gandikota",
+    "cityOrDistrict": "YSR Kadapa District",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gandikota_Grand_Canyon_of_India.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Gandikota_Grand_Canyon_of_India.jpg",
+    "author": "Abhijithhopz",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Belum Caves",
+    "slug": "belum-caves",
+    "cityOrDistrict": "Nandyal District",
+    "category": "Caves",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Main_Caves,_Belum,_Andhra_Pradesh.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Main_Caves,_Belum,_Andhra_Pradesh.jpg",
+    "author": "Naga Praveena Sharma P",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Lepakshi Temple",
+    "slug": "lepakshi-temple",
+    "cityOrDistrict": "Sri Sathya Sai District",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Front_view_of_Nandi,_at_Lepakshi.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Front_view_of_Nandi,_at_Lepakshi.jpg",
+    "author": "Anupam Chatterjee",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Amaravati",
+    "slug": "amaravati",
+    "cityOrDistrict": "Palnadu District",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhyan_Buddha_Statue,_Amaravathi.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dhyan_Buddha_Statue,_Amaravathi.jpg",
+    "author": "Krishna Chaitanya Velaga",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Srisailam",
+    "slug": "srisailam",
+    "cityOrDistrict": "Nandyal District",
+    "category": "Religious",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SriSailam_Temple.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:SriSailam_Temple.jpg",
+    "author": "Pjvlnsk",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Ahobilam",
+    "slug": "ahobilam",
+    "cityOrDistrict": "Nandyal District",
+    "category": "Religious",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ahobilam_sri_narasimha_swamy_temple.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Ahobilam_sri_narasimha_swamy_temple.jpg",
+    "author": "Varunmydala",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Konaseema",
+    "slug": "konaseema",
+    "cityOrDistrict": "Dr. B.R. Ambedkar Konaseema District",
+    "category": "Nature",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Konaseema.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Konaseema.jpg",
+    "author": "Sairam Kumpatla",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Papikondalu",
+    "slug": "papikondalu",
+    "cityOrDistrict": "Alluri Sitharama Raju / Eluru Districts",
+    "category": "Nature",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Papikondalu-Andhra_Pradesh-India.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Papikondalu-Andhra_Pradesh-India.jpg",
+    "author": "Geetha Grandhe",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Horsley Hills",
+    "slug": "horsley-hills",
+    "cityOrDistrict": "Annamayya District",
+    "category": "Hills",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Horsley_Hills.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Horsley_Hills.jpg",
+    "author": "Sumanth Nalluru",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Talakona Waterfall",
+    "slug": "talakona-waterfall",
+    "cityOrDistrict": "Tirupati District",
+    "category": "Waterfall",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Talakona_waterfall.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Talakona_waterfall.jpg",
+    "author": "Fruiticos",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Vijayawada Kanaka Durga Temple",
+    "slug": "vijayawada-kanaka-durga-temple",
+    "cityOrDistrict": "NTR District",
+    "category": "Religious",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bezawada_Kanaka_Durga_temple.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Bezawada_Kanaka_Durga_temple.jpg",
+    "author": "EnrichIndegi",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Undavalli Caves",
+    "slug": "undavalli-caves",
+    "cityOrDistrict": "Guntur District",
+    "category": "Caves",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_view_of_Undavalli_Caves.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:A_view_of_Undavalli_Caves.jpg",
+    "author": "Kalli navya",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Nagarjuna Sagar",
+    "slug": "nagarjuna-sagar",
+    "cityOrDistrict": "Palnadu District",
+    "category": "Dam",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nagarjuna_Sagar_dam.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Nagarjuna_Sagar_dam.jpg",
+    "author": "Avsnarayan",
+    "license": "CC BY 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Mypadu Beach",
+    "slug": "mypadu-beach",
+    "cityOrDistrict": "Sri Potti Sriramulu Nellore District",
+    "category": "Beach",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mypadu_Beach.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Mypadu_Beach.jpg",
+    "author": "Vin09",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  }
+]

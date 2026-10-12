@@ -1,0 +1,208 @@
+{
+  "state": "West Bengal",
+  "batch": 9,
+  "generatedAt": "2026-10-11T13:13:54.310Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Victoria Memorial, Kolkata",
+      "slug": "victoria-memorial-kolkata",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoria_Memorial_situated_in_Kolkata.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial_situated_in_Kolkata.jpg",
+      "author": "Subhrajyoti07",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Howrah Bridge, Kolkata",
+      "slug": "howrah-bridge-kolkata",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Howrah_Bridge%2C_Foggy.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Howrah_Bridge,_Foggy.jpg",
+      "author": "Pappu Sahu",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Dakshineswar Kali Temple",
+      "slug": "dakshineswar-kali-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dakshineswar_Kali_temple%2C_Kolkata%2C_West_Bengal%2C_India.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dakshineswar_Kali_temple,_Kolkata,_West_Bengal,_India.JPG",
+      "author": "Biswarup Ganguly",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Kalighat Kali Temple",
+      "slug": "kalighat-kali-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalighat_Kali_Temple.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalighat_Kali_Temple.jpg",
+      "author": "Shashwat Ghosh",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Sundarbans National Park",
+      "slug": "sundarbans-national-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sundarbans_National_Park.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sundarbans_National_Park.jpg",
+      "author": "Siddhartha Ghosh",
+      "license": "Attribution",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Darjeeling Himalayan Railway",
+      "slug": "darjeeling-hills",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Darjeeling_Himalayan_Railway%2Ctoy_train_%281%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Darjeeling_Himalayan_Railway,toy_train_(1).jpg",
+      "author": "Sharada Prasad CS",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Tiger Hill, Darjeeling",
+      "slug": "tiger-hill-darjeeling",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanchenjunga.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanchenjunga.JPG",
+      "author": "Flickr user",
+      "license": "GPL",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Batasia Loop, Darjeeling",
+      "slug": "batasia-loop-darjeeling",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Batasia_Loop_of_Darjeeling_Himalayan_Railway.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batasia_Loop_of_Darjeeling_Himalayan_Railway.jpg",
+      "author": "Flickr user",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Mirik Lake",
+      "slug": "mirik-lake",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mirik_Sumendu_Lake.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirik_Sumendu_Lake.jpg",
+      "author": "Sabyasachi Biswas",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Dooars and Gorumara National Park",
+      "slug": "dooars-and-gorumara-national-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gorumara_Gateway_Arnab_Dutta.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gorumara_Gateway_Arnab_Dutta.JPG",
+      "author": "Jonoikobangali",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Jaldapara National Park",
+      "slug": "jaldapara-national-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Facing_a_rhino_at_Jaldapara_national_park.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Facing_a_rhino_at_Jaldapara_national_park.jpg",
+      "author": "Dhruba507",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Bishnupur Terracotta",
+      "slug": "bishnupur-terracotta",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Madana_Mohana_temple_of_Bishnupur_in_Bankura_district_37.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madana_Mohana_temple_of_Bishnupur_in_Bankura_district_37.jpg",
+      "author": "Subhrajyoti07",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Hazarduari Palace, Murshidabad",
+      "slug": "hazarduari-palace-murshidabad",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hazarduari_Palace_%28Murshidabad%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hazarduari_Palace_(Murshidabad).jpg",
+      "author": "Flickr user",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Cooch Behar Palace",
+      "slug": "cooch-behar-palace",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cooch_Behar_Palace_alias_Victor_Jubilee_Palace_of_Cooch_Behar_Town_at_Cooch_Behar_district_in_West_Bengal_25.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cooch_Behar_Palace_alias_Victor_Jubilee_Palace_of_Cooch_Behar_Town_at_Cooch_Behar_district_in_West_Bengal_25.jpg",
+      "author": "Subhrajyoti07",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Shantiniketan",
+      "slug": "shantiniketan",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Visva_Bharati_University_Shantiniketan.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Visva_Bharati_University_Shantiniketan.jpg",
+      "author": "Saikat Das",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Digha Beach",
+      "slug": "digha-beach",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Beach_Ghat_-_New_Digha_-_East_Midnapore_2015-05-03_9779.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beach_Ghat_-_New_Digha_-_East_Midnapore_2015-05-03_9779.JPG",
+      "author": "Biswarup Ganguly",
+      "license": "CC BY 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Mandarmani Beach",
+      "slug": "mandarmani-beach",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fishing_Boat_in_Mandarmani_beach_02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fishing_Boat_in_Mandarmani_beach_02.jpg",
+      "author": "Mousum Ghosh",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Mukutmanipur Dam",
+      "slug": "mukutmanipur-dam",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%95%E0%A6%82%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%A4%E0%A7%80_%E0%A6%9C%E0%A6%B2%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%2C_%E0%A6%AA%E0%A6%B6%E0%A7%8D%E0%A6%9a%E0%A6%BF%E0%A6%AE%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%2C_%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%87_Kangsavati_Reservoir%2C_West_Bengal%2C_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:কংসাবতী_জলাধার,_পশ্চিমবঙ্গ,_ভারত।_Kangsavati_Reservoir,_West_Bengal,_India.jpg",
+      "author": "Rocky 73",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Tarapith Temple",
+      "slug": "tarapith-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tarapith_Kali_temple_at_Tarapith_04.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tarapith_Kali_temple_at_Tarapith_04.jpg",
+      "author": "Biswarup Ganguly",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Kalimpong Durpin Monastery",
+      "slug": "kalimpong-durpin-monastery",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Durpin_Dara_Monastery_or_Zang_Dhok_Palri_Phodang%2C_Kalimpong_02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Durpin_Dara_Monastery_or_Zang_Dhok_Palri_Phodang,_Kalimpong_02.jpg",
+      "author": "Subhrajyoti07",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+/* ============================================================
+   DestinationAccordion — Dual-mode layout
+   Horizontal: ≤ 5 items  |  Vertical: > 5 items
+   ============================================================ */
+
+/* ── Shared base ─────────────────────────────────────────── */
+.destination-accordion {
+  width: 100%;
+}
+
+.accordion-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 20px;
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  cursor: pointer;
+  border: 1px solid var(--glass-border-subtle);
+  outline: none;
+  contain: paint style;
+}
+
+.accordion-item::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.42);
+  transition: opacity 0.28s ease;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.accordion-item.active {
+  border-color: var(--glass-border-accent);
+}
+
+.accordion-item.active::after { opacity: 0.05; }
+.accordion-item:hover::after  { opacity: 0.18; }
+
+.accordion-item:focus-visible {
+  outline: 2px solid var(--color-brand);
+  outline-offset: 2px;
+}
+
+/* Background image */
+.accordion-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+  opacity: 0;
+  transform: translateZ(0) scale(1);
+  transition: opacity 0.3s ease, transform 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+  display: block;
+  pointer-events: none;
+}
+
+.accordion-bg.is-loaded {
+  opacity: 1;
+}
+
+.accordion-item.active .accordion-bg {
+  transform: translateZ(0) scale(1.03);
+}
+
+/* Rank badge — no backdrop-filter (too expensive across 20 simultaneous items) */
+.accordion-rank-badge {
+  position: absolute;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 2;
+  background: rgba(8, 13, 26, 0.72);
+  color: #fff;
+  font-weight: 800;
+  font-size: 0.88rem;
+  padding: 3px 9px;
+  border-radius: 7px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  line-height: 1.4;
+  pointer-events: none;
+}
+
+/* Collapsed strip label (visible on vertical/mobile collapsed strips) */
+.accordion-collapsed-label {
+  display: none;
+  position: absolute;
+  left: 3.75rem;
+  right: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 2;
+  align-items: baseline;
+  gap: 0.6rem;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.collapsed-name {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.95rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.75);
+}
+
+.collapsed-city {
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.8rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.75);
+}
+
+/* Category tag — only rendered when active */
+.accordion-tag-top-right {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  bottom: auto !important;
+  z-index: 2;
+  background: rgba(10, 16, 32, 0.68) !important;
+  color: #fff !important;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  padding: 0.25rem 0.6rem !important;
+  border-radius: var(--radius-sm) !important;
+  font-size: 0.68rem !important;
+  font-weight: 700;
+  white-space: nowrap;
+  width: fit-content;
+  height: max-content;
+  line-height: 1;
+  opacity: 0;
+  transform: translateY(-4px);
+  animation: fadeDownIn 0.25s ease 0.1s forwards;
+  pointer-events: none;
+}
+
+@keyframes fadeDownIn {
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Content overlay */
+.accordion-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2;
+  padding: 64px 18px 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.88) 100%);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transform: translateY(8px);
+  transition: opacity 0.22s ease, transform 0.22s ease, visibility 0.22s;
+}
+
+.accordion-item.active .accordion-content {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+  transform: translateY(0);
+  transition-delay: 0.08s;
+}
+
+.content-text { color: #fff; flex: 1; min-width: 0; }
+
+.content-text h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 0 3px;
+  line-height: 1.2;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.65);
+  color: #fff !important;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.content-text p {
+  font-size: 0.875rem;
+  color: rgba(255,255,255,0.86);
+  margin: 0;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.accordion-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.accordion-fav-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(15, 23, 42, 0.72);
+  color: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  cursor: pointer;
+  transition: background 0.18s ease, color 0.18s ease, transform 0.18s ease, border-color 0.18s ease;
+  flex-shrink: 0;
+}
+
+.accordion-fav-btn:hover {
+  transform: scale(1.08);
+  border-color: #fb7185;
+  color: #fb7185;
+}
+
+.accordion-fav-btn.active {
+  background: rgba(244, 63, 94, 0.24);
+  border-color: #f43f5e;
+  color: #fb7185;
+}
+
+.accordion-fav-btn:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+
+/* Explore button */
+.explore-btn {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  background: var(--color-brand);
+  color: #fff;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 18px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: background 0.18s, transform 0.18s;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.explore-btn:hover  { background: var(--color-brand-hover); transform: scale(1.04); }
+.explore-btn:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+
+
+/* ── HORIZONTAL MODE (≤ 5 items: Top 3 & Top 5) ──────────── */
+.accordion-horizontal {
+  display: flex;
+  gap: 10px;
+}
+
+.accordion-horizontal .accordion-item {
+  display: flex;
+  align-items: flex-end;
+}
+
+.accordion-horizontal .accordion-item::after {
+  transition: opacity 0.55s cubic-bezier(0.25, 1, 0.35, 1);
+}
+
+.accordion-horizontal .accordion-content {
+  transition: opacity 0.42s cubic-bezier(0.25, 1, 0.35, 1),
+              transform 0.42s cubic-bezier(0.25, 1, 0.35, 1),
+              visibility 0.42s;
+}
+
+.accordion-horizontal .accordion-item.active .accordion-content {
+  transition-delay: 0.16s;
+}
+
+@media (min-width: 769px) {
+  .accordion-horizontal {
+    height: 420px;
+  }
+
+  .accordion-horizontal .accordion-item {
+    flex: 0 0 58px;
+    contain: layout paint style;
+    will-change: flex-grow;
+    transition: flex-grow 0.82s cubic-bezier(0.25, 1, 0.35, 1),
+                border-color 0.45s ease,
+                box-shadow 0.45s ease;
+  }
+
+  .accordion-horizontal .accordion-item.active {
+    /* Keep flex-basis constant at 58px so only flex-grow (0 -> 1) interpolates continuously without a discrete 58px <-> auto layout snap */
+    flex: 1 0 58px;
+  }
+
+  .accordion-horizontal .accordion-bg {
+    transition: opacity 0.38s ease, transform 0.9s cubic-bezier(0.25, 1, 0.35, 1);
+  }
+}
+
+
+/* ── VERTICAL MODE (> 5 items: Top 10, Top 15, Top 20) ───── */
+.accordion-vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.accordion-vertical .accordion-item {
+  height: 64px;
+  display: flex;
+  align-items: flex-end;
+  border-radius: 14px;
+  transition: height 0.32s cubic-bezier(0.22, 1, 0.36, 1),
+              border-color 0.2s ease;
+}
+
+.accordion-vertical .accordion-item.active {
+  height: 300px;
+}
+
+/* Fixed 300px height on vertical background image eliminates per-frame object-fit crop recalculations during height transition */
+.accordion-vertical .accordion-bg {
+  height: 300px;
+  top: 50%;
+  transform: translate3d(0, -50%, 0);
+}
+
+.accordion-vertical .accordion-item.active .accordion-bg {
+  transform: translate3d(0, -50%, 0) scale(1.02);
+}
+
+.accordion-vertical .accordion-collapsed-label {
+  display: flex;
+}
+
+.accordion-vertical .accordion-content {
+  padding: 56px 18px 16px;
+}
+
+.accordion-vertical .content-text h2 { font-size: 1.15rem; }
+
+
+/* ── Tablet ──────────────────────────────────────────────── */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .accordion-horizontal { height: 370px; }
+  .accordion-horizontal .accordion-item { flex: 0 0 46px; border-radius: 18px; }
+  .accordion-horizontal .accordion-item.active { flex: 1 0 46px; }
+}
+
+/* ── Mobile: always vertical ─────────────────────────────── */
+@media (max-width: 768px) {
+  .accordion-horizontal,
+  .accordion-vertical {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .accordion-horizontal .accordion-item,
+  .accordion-vertical .accordion-item {
+    height: 60px;
+    min-height: 60px;
+    width: 100%;
+    border-radius: 12px;
+    flex: 0 0 auto;
+    will-change: auto;
+  }
+
+  .accordion-horizontal .accordion-item {
+    transition: height 0.68s cubic-bezier(0.25, 1, 0.35, 1),
+                border-color 0.35s ease;
+  }
+
+  .accordion-vertical .accordion-item {
+    transition: height 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .accordion-horizontal .accordion-item.active,
+  .accordion-vertical .accordion-item.active {
+    height: 280px;
+    flex: 0 0 auto;
+  }
+
+  .accordion-horizontal .accordion-bg,
+  .accordion-vertical .accordion-bg {
+    height: 280px;
+    top: 50%;
+    transform: translate3d(0, -50%, 0);
+  }
+
+  .accordion-horizontal .accordion-item.active .accordion-bg,
+  .accordion-vertical .accordion-item.active .accordion-bg {
+    transform: translate3d(0, -50%, 0) scale(1.02);
+  }
+
+  .accordion-horizontal .accordion-collapsed-label,
+  .accordion-vertical .accordion-collapsed-label {
+    display: flex;
+  }
+
+  .accordion-content { padding: 52px 14px 14px; }
+  .content-text h2   { font-size: 1.05rem; }
+
+  .explore-btn span  { display: none; }
+  .explore-btn       { padding: 8px; border-radius: 50%; }
+}
+
+/* ── Reduced motion ──────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  .accordion-item,
+  .accordion-horizontal .accordion-item,
+  .accordion-vertical .accordion-item,
+  .accordion-item::after,
+  .accordion-bg,
+  .accordion-content,
+  .accordion-tag-top-right {
+    transition-duration: 0.01ms !important;
+    transition-delay: 0s !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+[data-reduced-motion="true"] .accordion-item,
+[data-reduced-motion="true"] .accordion-horizontal .accordion-item,
+[data-reduced-motion="true"] .accordion-vertical .accordion-item,
+[data-reduced-motion="true"] .accordion-item::after,
+[data-reduced-motion="true"] .accordion-bg,
+[data-reduced-motion="true"] .accordion-content,
+[data-reduced-motion="true"] .accordion-tag-top-right {
+  transition-duration: 0.01ms !important;
+  transition-delay: 0s !important;
+  animation-duration: 0.01ms !important;
+}
+

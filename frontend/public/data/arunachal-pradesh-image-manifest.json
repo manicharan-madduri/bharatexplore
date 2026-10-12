@@ -1,0 +1,222 @@
+[
+  {
+    "destination": "Tawang Monastery",
+    "slug": "tawang-monastery",
+    "cityOrDistrict": "Tawang, Tawang District",
+    "category": "Monastery",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TawangMonastery-ArunachalPradesh-1.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:TawangMonastery-ArunachalPradesh-1.jpg",
+    "author": "Arkadipta Chandra",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Sela Pass",
+    "slug": "sela-pass",
+    "cityOrDistrict": "Tawang & West Kameng border",
+    "category": "Mountain Pass",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sela_Pass%2C_Arunachal_Pradesh.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Sela_Pass,_Arunachal_Pradesh.jpg",
+    "author": "Dhurba Jyoti Baruah",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Ziro Valley",
+    "slug": "ziro-valley",
+    "cityOrDistrict": "Ziro, Lower Subansiri District",
+    "category": "Valley",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ziro_Valley_View.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Ziro_Valley_View.jpg",
+    "author": "Arunachal2007",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Namdapha National Park",
+    "slug": "namdapha-national-park",
+    "cityOrDistrict": "Miao / Deban, Changlang District",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Forest_snow_Namdapha_IMG_3373_04.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Forest_snow_Namdapha_IMG_3373_04.jpg",
+    "author": "Rohit Naniwadekar",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Mechuka Valley",
+    "slug": "mechuka-valley",
+    "cityOrDistrict": "Mechuka, Shi Yomi District",
+    "category": "Valley",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mechuka_village.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Mechuka_village.jpg",
+    "author": "Quentin Talon & Mario Geiger",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Bomdila Monastery",
+    "slug": "bomdila-monastery",
+    "cityOrDistrict": "Bomdila, West Kameng District",
+    "category": "Monastery",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bomdila_Monastery%2C_Arunachal_Pradesh.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Bomdila_Monastery,_Arunachal_Pradesh.jpg",
+    "author": "Chaduvari",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Dirang",
+    "slug": "dirang",
+    "cityOrDistrict": "Dirang, West Kameng District",
+    "category": "Valley",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dirang_Valley_01.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dirang_Valley_01.jpg",
+    "author": "Giridhar Appaji Nag Y",
+    "license": "CC BY 2.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Sangti Valley",
+    "slug": "sangti-valley",
+    "cityOrDistrict": "Near Dirang, West Kameng District",
+    "category": "Valley",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sangti_river.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Sangti_river.jpg",
+    "author": "Neelanjana234",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Bum La Pass",
+    "slug": "bum-la-pass",
+    "cityOrDistrict": "Indo-China Border, Tawang District",
+    "category": "Mountain Pass",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bumla_Pass.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Bumla_Pass.jpg",
+    "author": "Vishnu1991nair",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Madhuri Lake",
+    "slug": "madhuri-lake",
+    "cityOrDistrict": "Tawang District",
+    "category": "Lake",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sangetsar_Lake%2C_Tawang%2C_Arunachal_Pradesh.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Sangetsar_Lake,_Tawang,_Arunachal_Pradesh.jpg",
+    "author": "Arup1981",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Itanagar Fort",
+    "slug": "itanagar-fort",
+    "cityOrDistrict": "Itanagar, Papum Pare District",
+    "category": "Fort",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ita_Fort_01.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Ita_Fort_01.JPG",
+    "author": "AshLin",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Ganga Lake",
+    "slug": "ganga-lake",
+    "cityOrDistrict": "Itanagar, Papum Pare District",
+    "category": "Lake",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gyakar_Sinyi_or_Ganga_Lake.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Gyakar_Sinyi_or_Ganga_Lake.jpg",
+    "author": "Mrkrish",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Pasighat",
+    "slug": "pasighat",
+    "cityOrDistrict": "East Siang District",
+    "category": "Nature",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pasighat_Town_-_May2019.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Pasighat_Town_-_May2019.jpg",
+    "author": "Bhavikji",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Roing",
+    "slug": "roing",
+    "cityOrDistrict": "Lower Dibang Valley District",
+    "category": "Nature",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Roing_Entrance.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Roing_Entrance.jpg",
+    "author": "Anu007bora",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Mayudia Pass",
+    "slug": "mayudia-pass",
+    "cityOrDistrict": "Lower Dibang Valley & Dibang Valley border",
+    "category": "Mountain Pass",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mayodia_Pass_1.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Mayodia_Pass_1.jpg",
+    "author": "ঈশান জ্যোতি বৰা (Ishan Jyoti Bora)",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Namsai Golden Pagoda",
+    "slug": "namsai-golden-pagoda",
+    "cityOrDistrict": "Tengapani, Namsai District",
+    "category": "Religious",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden_Pagoda_(Kongmu_Kham).jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Golden_Pagoda_(Kongmu_Kham).jpg",
+    "author": "Rajbhowmick",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Parshuram Kund",
+    "slug": "parshuram-kund",
+    "cityOrDistrict": "Near Tezu, Lohit District",
+    "category": "Religious",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Parshuram_Kund.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Parshuram_Kund.jpg",
+    "author": "Caper Travel India",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Dong Valley",
+    "slug": "dong-valley",
+    "cityOrDistrict": "Walong Circle, Anjaw District",
+    "category": "Valley",
+    "directUrl": null,
+    "sourcePage": null,
+    "author": null,
+    "license": null,
+    "status": "UNRESOLVED"
+  },
+  {
+    "destination": "Anini",
+    "slug": "anini",
+    "cityOrDistrict": "Dibang Valley District",
+    "category": "Hills",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anini_Panoramia.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Anini_Panoramia.jpg",
+    "author": "KRajaratnam1",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Pakke Tiger Reserve",
+    "slug": "pakke-tiger-reserve",
+    "cityOrDistrict": "Seijosa, Pakke-Kessang District",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Landscape_Kameng_River_Pakke_Tiger_Reserve.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Landscape_Kameng_River_Pakke_Tiger_Reserve.jpg",
+    "author": "Aparajita Datta",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  }
+]

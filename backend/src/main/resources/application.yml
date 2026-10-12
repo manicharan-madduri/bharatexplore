@@ -1,0 +1,113 @@
+spring:
+  application:
+    name: tourism-india-backend
+  profiles:
+    default: dev
+
+  # Base database & JPA settings (profile-specific blocks below configure dev vs prod defaults)
+  datasource:
+    url: ${SPRING_DATASOURCE_URL:${DB_URL:}}
+    username: ${SPRING_DATASOURCE_USERNAME:${DB_USERNAME:}}
+    password: ${SPRING_DATASOURCE_PASSWORD:${DB_PASSWORD:}}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: ${SPRING_JPA_DDL_AUTO:validate}
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.MySQLDialect
+
+server:
+  port: ${PORT:8082}
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+
+cors:
+  allowed-origins: ${CORS_ALLOWED_ORIGINS:http://localhost:5173,http://localhost:5174,http://localhost:3000,http://127.0.0.1:5173,http://127.0.0.1:5174}
+
+application:
+  frontend-url: ${APP_FRONTEND_URL:http://localhost:5173}
+  security:
+    jwt:
+      secret-key: ${JWT_SECRET_KEY:}
+      expiration: ${JWT_EXPIRATION_MS:86400000}
+      cookie-secure: ${JWT_COOKIE_SECURE:false}
+      cookie-same-site: ${JWT_COOKIE_SAMESITE:Lax}
+    password-reset:
+      log-link-in-dev: ${PASSWORD_RESET_LOG_LINK_IN_DEV:${APP_LOG_RESET_LINK_IN_DEV:false}}
+    rate-limit:
+      window-seconds: ${RATE_LIMIT_WINDOW_SECONDS:60}
+      max-tracked-keys: ${RATE_LIMIT_MAX_TRACKED_KEYS:4096}
+      trust-forwarded-headers: ${RATE_LIMIT_TRUST_FORWARDED_HEADERS:false}
+      login-max-requests: ${RATE_LIMIT_LOGIN_MAX:10}
+      register-max-requests: ${RATE_LIMIT_REGISTER_MAX:5}
+      forgot-password-max-requests: ${RATE_LIMIT_FORGOT_PASSWORD_MAX:5}
+      reset-password-max-requests: ${RATE_LIMIT_RESET_PASSWORD_MAX:5}
+
+---
+# Explicit local development profile (active by default when SPRING_PROFILES_ACTIVE is not set)
+# Machine-specific local credentials and dev JWT signing key are loaded from git-ignored application-local.yml
+spring:
+  config:
+    activate:
+      on-profile: dev
+    import: optional:classpath:application-local.yml
+  datasource:
+    url: ${SPRING_DATASOURCE_URL:${DB_URL:jdbc:mysql://${DB_HOST:localhost}:${DB_PORT:3306}/${DB_NAME:tourismdb}?useSSL=${DB_USE_SSL:false}&serverTimezone=UTC&allowPublicKeyRetrieval=${DB_ALLOW_PUBLIC_KEY_RETRIEVAL:true}&createDatabaseIfNotExist=${DB_CREATE_IF_NOT_EXIST:true}}}
+    username: ${SPRING_DATASOURCE_USERNAME:${DB_USERNAME:}}
+    password: ${SPRING_DATASOURCE_PASSWORD:${DB_PASSWORD:}}
+  jpa:
+    hibernate:
+      ddl-auto: ${SPRING_JPA_DDL_AUTO:update}
+
+application:
+  security:
+    jwt:
+      secret-key: ${JWT_SECRET_KEY:}
+      cookie-secure: ${JWT_COOKIE_SECURE:false}
+    password-reset:
+      log-link-in-dev: ${PASSWORD_RESET_LOG_LINK_IN_DEV:${APP_LOG_RESET_LINK_IN_DEV:true}}
+
+---
+# Production profile: requires explicit non-root DB credentials & JWT_SECRET_KEY, enables SSL & Secure cookies, enforces ddl-auto=validate, and disables reset-link console logging
+spring:
+  config:
+    activate:
+      on-profile: prod,production
+  datasource:
+    url: ${SPRING_DATASOURCE_URL:${DB_URL:jdbc:mysql://${DB_HOST:localhost}:${DB_PORT:3306}/${DB_NAME:tourismdb}?useSSL=${DB_USE_SSL:true}&requireSSL=${DB_REQUIRE_SSL:true}&verifyServerCertificate=${DB_VERIFY_SERVER_CERT:true}&serverTimezone=UTC&allowPublicKeyRetrieval=${DB_ALLOW_PUBLIC_KEY_RETRIEVAL:false}&createDatabaseIfNotExist=false}}
+    username: ${SPRING_DATASOURCE_USERNAME:${DB_USERNAME:}}
+    password: ${SPRING_DATASOURCE_PASSWORD:${DB_PASSWORD:}}
+  jpa:
+    hibernate:
+      ddl-auto: ${SPRING_JPA_DDL_AUTO:validate}
+
+springdoc:
+  api-docs:
+    enabled: ${SPRINGDOC_ENABLED:false}
+  swagger-ui:
+    enabled: ${SPRINGDOC_ENABLED:false}
+
+application:
+  security:
+    jwt:
+      secret-key: ${JWT_SECRET_KEY:}
+      cookie-secure: ${JWT_COOKIE_SECURE:true}
+    password-reset:
+      log-link-in-dev: false
+
+
+

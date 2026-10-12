@@ -1,0 +1,208 @@
+{
+  "state": "Odisha",
+  "batch": 6,
+  "generatedAt": "2026-10-11T07:54:32.996Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Jagannath Temple, Puri",
+      "slug": "jagannath-temple-puri",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Puri_Jagannatha_temple_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puri_Jagannatha_temple_01.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Konark Sun Temple",
+      "slug": "konark-sun-temple",
+      "coverImageUrl": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?auto=format&fit=crop&w=800&q=80",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sun_Temple,_Konark,_Odisha,_India.jpg",
+      "author": "ASI / Unsplash",
+      "license": "CC BY-SA / Unsplash",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Chilika Lake",
+      "slug": "chilika-lake",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chilika_Lake_or_Chilka_in_Odisha_08.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chilika_Lake_or_Chilka_in_Odisha_08.jpg",
+      "author": "Pinakpani",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Lingaraj Temple",
+      "slug": "lingaraj-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lingaraja_Temple_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lingaraja_Temple_01.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Udayagiri and Khandagiri Caves",
+      "slug": "udayagiri-and-khandagiri-caves",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Udayagiri_and_Khandagiri_Caves_2024_11.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Udayagiri_and_Khandagiri_Caves_2024_11.jpg",
+      "author": "Athulvis",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Dhauli Shanti Stupa",
+      "slug": "dhauli-shanti-stupa",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shanti_Stupa%2C_Dhauli_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shanti_Stupa,_Dhauli_01.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Similipal National Park",
+      "slug": "similipal-national-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Palpala_River_near_lulung%2C_Similipal_National_Park.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palpala_River_near_lulung,_Similipal_National_Park.jpg",
+      "author": "Byomakesh07",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Bhitarkanika National Park",
+      "slug": "bhitarkanika-national-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhitarkanika_Mangroves_Flora_and_Fauna_04.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhitarkanika_Mangroves_Flora_and_Fauna_04.JPG",
+      "author": "Devopam",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Hirakud Dam",
+      "slug": "hirakud-dam",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hirakud_Dam_Viewpoint%2C_Sambalpur.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hirakud_Dam_Viewpoint,_Sambalpur.jpg",
+      "author": "Aliva Sahoo",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Chandipur Beach",
+      "slug": "chandipur-beach",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chandipur_sea_beach_Baleswar.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandipur_sea_beach_Baleswar.jpg",
+      "author": "Subhasisa Panigahi",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Gopalpur Beach",
+      "slug": "gopalpur-beach",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gopalpur_%27s_beach%2C_the_ocean.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gopalpur_'s_beach,_the_ocean.JPG",
+      "author": "Jagadhatri",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Raghurajpur Heritage Village",
+      "slug": "raghurajpur-heritage-village",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raghurajpur_-_Decorated_Village_House.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raghurajpur_-_Decorated_Village_House.jpg",
+      "author": "Sumit Surai",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Ratnagiri Buddhist Site",
+      "slug": "ratnagiri-buddhist-site",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ratnagiri_-_Odisha_-_001.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ratnagiri_-_Odisha_-_001.jpg",
+      "author": "Rupeshsarkar",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Lalitgiri Buddhist Site",
+      "slug": "lalitgiri-buddhist-site",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lalitgiri_-_Odisha_-_001.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lalitgiri_-_Odisha_-_001.jpg",
+      "author": "Rupeshsarkar",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Satkosia Gorge",
+      "slug": "satkosia-gorge",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Satkosia_gorge.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Satkosia_gorge.jpg",
+      "author": "Government of Odisha",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Deomali Hills",
+      "slug": "deomali-hills",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Deomali_by_Santanu_Mahapatra%2C_Koraput_-_panoramio.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deomali_by_Santanu_Mahapatra,_Koraput_-_panoramio.jpg",
+      "author": "zskm10",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Taratarini Temple",
+      "slug": "taratarini-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taratarini_Temple%2C_Odisha.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taratarini_Temple,_Odisha.jpg",
+      "author": "Nibedit",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Barabati Fort",
+      "slug": "barabati-fort",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Barabati_Fort_%2C_Cuttack_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barabati_Fort_,_Cuttack_01.jpg",
+      "author": "Bikashrd",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Nandankanan Zoological Park",
+      "slug": "nandankanan-zoological-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nandankanan%2C_Bhubaneswar%2C_Odisha.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nandankanan,_Bhubaneswar,_Odisha.jpg",
+      "author": "Abhas Kumar Kheti",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Khandadhar Waterfall",
+      "slug": "khandadhar-waterfall",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Khandadhar_Waterfall_Kendujhar_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khandadhar_Waterfall_Kendujhar_01.jpg",
+      "author": "Nirakarkhuntia",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

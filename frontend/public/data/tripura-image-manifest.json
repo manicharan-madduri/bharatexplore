@@ -1,0 +1,208 @@
+{
+  "state": "Tripura",
+  "batch": 8,
+  "generatedAt": "2026-10-11T12:31:42.217Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Ujjayanta Palace",
+      "slug": "ujjayanta-palace",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+      "author": "Soman",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Neermahal Palace",
+      "slug": "neermahal-palace",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Neermahal_Palace_on_Rudrasagar_02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neermahal_Palace_on_Rudrasagar_02.jpg",
+      "author": "Aghosh24",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Tripura Sundari Temple, Udaipur",
+      "slug": "tripura-sundari-temple-udaipur",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tripura_Sundari_Temple%2C_Udaipur.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tripura_Sundari_Temple,_Udaipur.jpg",
+      "author": "Soman",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Unakoti Rock Carvings",
+      "slug": "unakoti-rock-carvings",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Unakoti_group_of_bas-relief_sculptures%2C_Tripura%2C_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unakoti_group_of_bas-relief_sculptures,_Tripura,_India.jpg",
+      "author": "Leeloa",
+      "license": "Public domain",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Jampui Hills",
+      "slug": "jampui-hills",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_view_of_Jampui_Hills_in_the_East_from_the_plains_of_Kanchanpur.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_of_Jampui_Hills_in_the_East_from_the_plains_of_Kanchanpur.jpg",
+      "author": "Mx. Granger",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Sepahijala Wildlife Sanctuary",
+      "slug": "sepahijala-wildlife-sanctuary",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Deer%2C_Sepahijala_WLS.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deer,_Sepahijala_WLS.jpg",
+      "author": "Pritamg24",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Trishna Wildlife Sanctuary",
+      "slug": "trishna-wildlife-sanctuary",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Bison_Gobo.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_Bison_Gobo.jpg",
+      "author": "Seearka",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Dumboor Lake",
+      "slug": "dumboor-lake",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Boat_Changing_Point_At_Damboor_Lake.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boat_Changing_Point_At_Damboor_Lake.jpg",
+      "author": "Psushant577",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Chabimura Rock Carvings",
+      "slug": "chabimura-rock-carvings",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rock_sculpture_of_Devtamura.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rock_sculpture_of_Devtamura.jpg",
+      "author": "Sanjibroy56",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Pilak Archaeological Site",
+      "slug": "pilak-archaeological-site",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pilak_Buddhist_Stupa_and_Emblem_of_Surya_Deva.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pilak_Buddhist_Stupa_and_Emblem_of_Surya_Deva.jpg",
+      "author": "Sanjibroy56",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Boxanagar Buddhist Site",
+      "slug": "boxanagar-buddhist-site",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/1)The_ruins_of_Buddhist_Temple_at_Boxanagar%2Cnear_Sonamura%2C_40_kms_west_to_the_capital_city_Agartala%2CTripura.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1)The_ruins_of_Buddhist_Temple_at_Boxanagar,near_Sonamura,_40_kms_west_to_the_capital_city_Agartala,Tripura.jpg",
+      "author": "Sanjibroy56",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Fourteen Gods Temple, Khayerpur",
+      "slug": "fourteen-gods-temple-khayerpur",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Temple_of_14_gods-Tripura.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_14_gods-Tripura.jpg",
+      "author": "Sanjibroy56",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Kasba Kali Temple",
+      "slug": "kasba-kali-temple",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamalasagar_kali_temple_(view_from_front).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kamalasagar_kali_temple_(view_from_front).jpg",
+      "author": "Heliophilous",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Heritage Park, Agartala",
+      "slug": "heritage-park-agartala",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Main_gate_of_the_Heritage_park.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_gate_of_the_Heritage_park.jpg",
+      "author": "Swarupskd.wiki",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Bhuvaneswari Temple, Udaipur",
+      "slug": "bhuvaneswari-temple-udaipur",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhuvaneshwari_Temple%2C_Tripura.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhuvaneshwari_Temple,_Tripura.jpg",
+      "author": "Kanad Sanyal",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Rowa Wildlife Sanctuary",
+      "slug": "rowa-wildlife-sanctuary",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Barking_Deer_Rowa_Wildlife_Sanctuary.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barking_Deer_Rowa_Wildlife_Sanctuary.jpg",
+      "author": "BENFRANK13",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Gandacherra",
+      "slug": "gandacherra",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Road_to_Gandacherra_in_Dhalai_district%2C_Tripura.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Road_to_Gandacherra_in_Dhalai_district,_Tripura.jpg",
+      "author": "Piyushozarde",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Narikel Kunja",
+      "slug": "narikel-kunja",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Narikel_kunja.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Narikel_kunja.jpg",
+      "author": "Shaibal Datta1994",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Udaipur Jagannath Temple",
+      "slug": "udaipur-jagannath-temple",
+      "coverImageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "sourceUrl": null,
+      "author": null,
+      "license": null,
+      "status": "UNRESOLVED"
+    },
+    {
+      "rank": 20,
+      "name": "Rabindra Kanan, Agartala",
+      "slug": "rabindra-kanan-agartala",
+      "coverImageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "sourceUrl": null,
+      "author": null,
+      "license": null,
+      "status": "UNRESOLVED"
+    }
+  ]
+}

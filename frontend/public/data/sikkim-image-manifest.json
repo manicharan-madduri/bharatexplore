@@ -1,0 +1,208 @@
+{
+  "state": "Sikkim",
+  "batch": 7,
+  "generatedAt": "2026-10-11T08:24:04.268Z",
+  "totalDestinations": 20,
+  "destinations": [
+    {
+      "rank": 1,
+      "name": "Tsomgo Lake",
+      "slug": "tsomgo-lake",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tsomgo_Lake%2C_Sikkim.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tsomgo_Lake,_Sikkim.jpg",
+      "author": "Indrajit Das",
+      "license": "CC BY 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 2,
+      "name": "Nathula Pass",
+      "slug": "nathula-pass",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nathu_La%2C_East_Sikkim.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nathu_La,_East_Sikkim.jpg",
+      "author": "Amitabha Gupta",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 3,
+      "name": "Rumtek Monastery",
+      "slug": "rumtek-monastery",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rumtek_Monastery_08.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rumtek_Monastery_08.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 4,
+      "name": "Pelling",
+      "slug": "pelling",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Walk_at_Pelling%2C_West_Sikkim_02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sky_Walk_at_Pelling,_West_Sikkim_02.jpg",
+      "author": "Amitabha Gupta",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 5,
+      "name": "Gurudongmar Lake",
+      "slug": "gurudongmar-lake",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gurudongmar_Lake_in_May_2015.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gurudongmar_Lake_in_May_2015.jpg",
+      "author": "Amit Kumar",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 6,
+      "name": "Yumthang Valley",
+      "slug": "yumthang-valley",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_view_of_Yumthang_valley%2C_Sikkim_India%2C.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_of_Yumthang_valley,_Sikkim_India,.jpg",
+      "author": "Soumyajit Pramanick",
+      "license": "CC BY-SA 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 7,
+      "name": "Zero Point, Sikkim",
+      "slug": "zero-point-sikkim",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zero_Point%2C_Yumesamdong%2C_North_Sikkim_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zero_Point,_Yumesamdong,_North_Sikkim_01.jpg",
+      "author": "Sujay25",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 8,
+      "name": "Khangchendzonga National Park",
+      "slug": "khangchendzonga-national-park",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_scene_from_Kanchenjunga_National_Park%2C_Sikkim_(1).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_scene_from_Kanchenjunga_National_Park,_Sikkim_(1).jpg",
+      "author": "G Devadarshan Sharma",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 9,
+      "name": "Buddha Park, Ravangla",
+      "slug": "buddha-park-ravangla",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Large_Gautama_Buddha_statue_in_Buddha_Park_of_Ravangla%2C_Sikkim.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Large_Gautama_Buddha_statue_in_Buddha_Park_of_Ravangla,_Sikkim.jpg",
+      "author": "Subhrajyoti07",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 10,
+      "name": "Namchi Char Dham",
+      "slug": "namchi-char-dham",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Char_Dham%2C_Namchi%2C_Sikkim%2C_India.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Char_Dham,_Namchi,_Sikkim,_India.JPG",
+      "author": "Jainish rana",
+      "license": "CC BY-SA 3.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 11,
+      "name": "Tashiding Monastery",
+      "slug": "tashiding-monastery",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tashiding_Monastery_in_West_Sikkim_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tashiding_Monastery_in_West_Sikkim_01.jpg",
+      "author": "Anjan Kumar Kundu",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 12,
+      "name": "Pemayangtse Monastery",
+      "slug": "pemayangtse-monastery",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pemayangtse_Monastery_Sikkim_India.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pemayangtse_Monastery_Sikkim_India.jpg",
+      "author": "Prof Ranga Sai",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 13,
+      "name": "Zuluk",
+      "slug": "zuluk",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dzuluk.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dzuluk.jpg",
+      "author": "Somsubhra Chatterjee",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 14,
+      "name": "Thambi View Point",
+      "slug": "thambi-view-point",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thambi_view_point.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thambi_view_point.jpg",
+      "author": "Arup1981",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 15,
+      "name": "Rabdentse Ruins",
+      "slug": "rabdentse-ruins",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rabdentse_Ruins%2C_Pelling_(41620939864).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rabdentse_Ruins,_Pelling_(41620939864).jpg",
+      "author": "Ankur P from Pune, India",
+      "license": "CC BY 2.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 16,
+      "name": "Lachung",
+      "slug": "lachung",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bridge_over_Lachung_River%2C_North_Sikkim.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bridge_over_Lachung_River,_North_Sikkim.jpg",
+      "author": "Sujay25",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 17,
+      "name": "Lachen",
+      "slug": "lachen",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lachen_Sikkim.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lachen_Sikkim.jpg",
+      "author": "Tushar2486",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 18,
+      "name": "Khecheopalri Lake",
+      "slug": "khecheopalri-lake",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Khecheopalri_Lake_from_the_view_point%2C_West_Sikkim_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khecheopalri_Lake_from_the_view_point,_West_Sikkim_01.jpg",
+      "author": "Anjan Kumar Kundu",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 19,
+      "name": "Enchey Monastery",
+      "slug": "enchey-monastery",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Enchey_Monastery_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enchey_Monastery_01.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 4.0",
+      "status": "VERIFIED"
+    },
+    {
+      "rank": 20,
+      "name": "Hanuman Tok",
+      "slug": "hanuman-tok",
+      "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hanuman_Tok_Temple_Complex_in_Gangtok_District%2C_East_Sikkim_01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hanuman_Tok_Temple_Complex_in_Gangtok_District,_East_Sikkim_01.jpg",
+      "author": "Anjan Kumar Kundu",
+      "license": "CC BY 4.0",
+      "status": "VERIFIED"
+    }
+  ]
+}

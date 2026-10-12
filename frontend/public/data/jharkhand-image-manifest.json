@@ -1,0 +1,222 @@
+[
+  {
+    "destination": "Hundru Falls",
+    "slug": "hundru-falls",
+    "cityOrDistrict": "Ranchi",
+    "category": "Waterfall",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hundru_Falls%2C_Ranchi.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Hundru_Falls,_Ranchi.jpg",
+    "author": "RISHABH GAURAV",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Dassam Falls",
+    "slug": "dassam-falls",
+    "cityOrDistrict": "Ranchi",
+    "category": "Waterfall",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dassam_Falls%2C_Jharkhand%2C_India_03.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dassam_Falls,_Jharkhand,_India_03.jpg",
+    "author": "Kingshuk Mondal",
+    "license": "CC BY 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Jonha Falls",
+    "slug": "jonha-falls",
+    "cityOrDistrict": "Ranchi",
+    "category": "Waterfall",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jonha_falls.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Jonha_falls.jpg",
+    "author": "Binayrungta",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Betla National Park",
+    "slug": "betla-national-park",
+    "cityOrDistrict": "Latehar",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Entrance_of_Betla_national_park.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Entrance_of_Betla_national_park.jpg",
+    "author": "Marian kispotta",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Netarhat",
+    "slug": "netarhat",
+    "cityOrDistrict": "Latehar",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunset_in_netarhatt%2C_jharkhand.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Sunset_in_netarhatt,_jharkhand.jpg",
+    "author": "Ujjawalagrawal2",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Deoghar Baidyanath Temple",
+    "slug": "deoghar-baidyanath-temple",
+    "cityOrDistrict": "Deoghar",
+    "category": "Religious",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Baidyanath_temple_and_temple_complex,_Deoghar_04.jpg",
+    "author": "Pinakpani",
+    "license": "CC BY 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Parasnath Hill",
+    "slug": "parasnath-hill",
+    "cityOrDistrict": "Giridih",
+    "category": "Religious",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shikharji_Parasnath_Giridih.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Shikharji_Parasnath_Giridih.jpg",
+    "author": "CaptVijay",
+    "license": "Public Domain",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Rajrappa Temple",
+    "slug": "rajrappa-temple",
+    "cityOrDistrict": "Ramgarh",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chhinnamastika_Temple_Rajrappa.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Chhinnamastika_Temple_Rajrappa.jpg",
+    "author": "Flashthomsom",
+    "license": "CC0 1.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Patratu Valley",
+    "slug": "patratu-valley",
+    "cityOrDistrict": "Ramgarh",
+    "category": "Nature",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Patratu_valley.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Patratu_valley.jpg",
+    "author": "TribhuwanKumar",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Maithon Dam",
+    "slug": "maithon-dam",
+    "cityOrDistrict": "Dhanbad",
+    "category": "Dam",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maithon_Dam.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Maithon_Dam.jpg",
+    "author": "TripodStories- AB",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Panchet Dam",
+    "slug": "panchet-dam",
+    "cityOrDistrict": "Dhanbad",
+    "category": "Dam",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Panchet_Dam_(DVC)_Dhanbad.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Panchet_Dam_(DVC)_Dhanbad.jpg",
+    "author": "Baranwalalok71",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Dalma Wildlife Sanctuary",
+    "slug": "dalma-wildlife-sanctuary",
+    "cityOrDistrict": "East Singhbhum",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Entry_gate_Dalma_Wildlife_Sanctuary_Jharkhand.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Entry_gate_Dalma_Wildlife_Sanctuary_Jharkhand.jpg",
+    "author": "Daniel Romanson",
+    "license": "CC0 1.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Usri Falls",
+    "slug": "usri-falls",
+    "cityOrDistrict": "Giridih",
+    "category": "Waterfall",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Usri_falls%2Cgiridih%2Cjharkhand.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Usri_falls,giridih,jharkhand.jpg",
+    "author": "কাজারি (Kajari)",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "McCluskieganj",
+    "slug": "mccluskieganj",
+    "cityOrDistrict": "Ranchi",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/McCluskieganj.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:McCluskieganj.jpg",
+    "author": "Skmishraindia",
+    "license": "Public Domain",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Maluti Temples",
+    "slug": "maluti-temples",
+    "cityOrDistrict": "Dumka",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maluti_Temple.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Maluti_Temple.jpg",
+    "author": "Pinakpani",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Jagannath Temple, Ranchi",
+    "slug": "jagannath-temple-ranchi",
+    "cityOrDistrict": "Ranchi",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jagannath_Temple%2C_Ranchi.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Jagannath_Temple,_Ranchi.jpg",
+    "author": "Tarun Paul Kachhap",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Tagore Hill",
+    "slug": "tagore-hill",
+    "cityOrDistrict": "Ranchi",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tagore_hill_Ranchi.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tagore_hill_Ranchi.jpg",
+    "author": "Vaibhavraj241",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Dimna Lake",
+    "slug": "dimna-lake",
+    "cityOrDistrict": "East Singhbhum",
+    "category": "Nature",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dimna_Lake.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dimna_Lake.jpg",
+    "author": "Msatish108",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Topchanchi Lake",
+    "slug": "topchanchi-lake",
+    "cityOrDistrict": "Dhanbad",
+    "category": "Nature",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Topchanchi_Lake_and_Hill.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Topchanchi_Lake_and_Hill.jpg",
+    "author": "Bpagla",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Pahari Mandir, Ranchi",
+    "slug": "pahari-mandir-ranchi",
+    "cityOrDistrict": "Ranchi",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pahari_Mandir_-_Ranchi_Hill_9242.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Pahari_Mandir_-_Ranchi_Hill_9242.JPG",
+    "author": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "status": "VERIFIED"
+  }
+]

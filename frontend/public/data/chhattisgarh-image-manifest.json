@@ -1,0 +1,222 @@
+[
+  {
+    "destination": "Chitrakote Waterfall",
+    "slug": "chitrakote-waterfall",
+    "cityOrDistrict": "Bastar",
+    "category": "Waterfall",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chitrakote_Falls.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Chitrakote_Falls.jpg",
+    "author": "Ksh85",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Tirathgarh Waterfall",
+    "slug": "tirathgarh-waterfall",
+    "cityOrDistrict": "Bastar",
+    "category": "Waterfall",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tirathgarh_waterfall.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tirathgarh_waterfall.jpg",
+    "author": "Tourism in Chhattisgarh",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kanger Valley National Park",
+    "slug": "kanger-valley-national-park",
+    "cityOrDistrict": "Bastar",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanger_valley_National_park.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kanger_valley_National_park.jpg",
+    "author": "Harminder singh saini (Harminderkurala)",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Barnawapara Wildlife Sanctuary",
+    "slug": "barnawapara-wildlife-sanctuary",
+    "cityOrDistrict": "Baloda Bazar",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Barnawapara_Wildlife_Sanctuary_Chhattisgarh_India.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Barnawapara_Wildlife_Sanctuary_Chhattisgarh_India.jpg",
+    "author": "RameshSharma1",
+    "license": "CC BY 2.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Sirpur Archaeological Site",
+    "slug": "sirpur-archaeological-site",
+    "cityOrDistrict": "Mahasamund",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Laxman_Temple,_Sirpur,_Chhattisgarh.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Laxman_Temple,_Sirpur,_Chhattisgarh.jpg",
+    "author": "Sandeep9165",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Bhoramdeo Temple",
+    "slug": "bhoramdeo-temple",
+    "cityOrDistrict": "Kabirdham",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhoramdeo_Temple.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Bhoramdeo_Temple.JPG",
+    "author": "Roshan Jha",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Dongargarh",
+    "slug": "dongargarh",
+    "cityOrDistrict": "Rajnandgaon",
+    "category": "Pilgrimage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dongargarh.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dongargarh.jpg",
+    "author": "Sushil Kumar",
+    "license": "CC BY 2.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Danteshwari Temple",
+    "slug": "danteshwari-temple",
+    "cityOrDistrict": "Dantewada",
+    "category": "Temple",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Danteswari_Temple_0034.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Danteswari_Temple_0034.jpg",
+    "author": "Ratnesh1948",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Bastar Palace",
+    "slug": "bastar-palace",
+    "cityOrDistrict": "Bastar",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jagdalpur_Palace.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Jagdalpur_Palace.jpg",
+    "author": "Jitendranakka",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kutumsar Caves",
+    "slug": "kutumsar-caves",
+    "cityOrDistrict": "Bastar",
+    "category": "Caves",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kutumsar_Caves.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kutumsar_Caves.jpg",
+    "author": "Arunkprasad01",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Kailash Caves",
+    "slug": "kailash-caves",
+    "cityOrDistrict": "Bastar",
+    "category": "Caves",
+    "directUrl": null,
+    "sourcePage": null,
+    "author": null,
+    "license": null,
+    "status": "UNRESOLVED"
+  },
+  {
+    "destination": "Mainpat",
+    "slug": "mainpat",
+    "cityOrDistrict": "Surguja",
+    "category": "Hill Station",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MAINPAT_LANDSCAPE.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:MAINPAT_LANDSCAPE.jpg",
+    "author": "Xtra Click",
+    "license": "CC BY 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Malhar Archaeological Site",
+    "slug": "malhar-archaeological-site",
+    "cityOrDistrict": "Bilaspur",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Temple_Carvings_in_Malhar_Bilaspur_Chhattisgarh_2009.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Temple_Carvings_in_Malhar_Bilaspur_Chhattisgarh_2009.jpg",
+    "author": "Rksande",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Madku Dweep",
+    "slug": "madku-dweep",
+    "cityOrDistrict": "Bilaspur",
+    "category": "Heritage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Madku_island_Hindu_temples_and_Mandukya_rishi_memorial,_Chhattisgarh_-_7.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Madku_island_Hindu_temples_and_Mandukya_rishi_memorial,_Chhattisgarh_-_7.jpg",
+    "author": "Ms Sarah Welch",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Rajim",
+    "slug": "rajim",
+    "cityOrDistrict": "Gariaband",
+    "category": "Pilgrimage",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rajiv_Lochan_Temple.JPG",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Rajiv_Lochan_Temple.JPG",
+    "author": "Paalappoo",
+    "license": "Public Domain",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Achanakmar Tiger Reserve",
+    "slug": "achanakmar-tiger-reserve",
+    "cityOrDistrict": "Mungeli",
+    "category": "Wildlife",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Achanakmar_Tiger_Reserve.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Achanakmar_Tiger_Reserve.jpg",
+    "author": "abhishek agrawal",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Gangrel Dam",
+    "slug": "gangrel-dam",
+    "cityOrDistrict": "Dhamtari",
+    "category": "Dam",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/RAVISHANKAR_SAGAR_PROJECT_GANGREL.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:RAVISHANKAR_SAGAR_PROJECT_GANGREL.jpg",
+    "author": "Darpanashukla",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Hasdeo Bango Dam",
+    "slug": "hasdeo-bango-dam",
+    "cityOrDistrict": "Korba",
+    "category": "Dam",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hasdeo_Bango_reservoir,_Korba_district,_Chhattisgarh,_India.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Hasdeo_Bango_reservoir,_Korba_district,_Chhattisgarh,_India.jpg",
+    "author": "Hmains",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Chaiturgarh Fort",
+    "slug": "chaiturgarh-fort",
+    "cityOrDistrict": "Korba",
+    "category": "Fort",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chaiturgarh_temple_Korba,_Chhattisgarh.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Chaiturgarh_temple_Korba,_Chhattisgarh.jpg",
+    "author": "Mettle30",
+    "license": "CC BY-SA 4.0",
+    "status": "VERIFIED"
+  },
+  {
+    "destination": "Amrit Dhara Waterfall",
+    "slug": "amrit-dhara-waterfall",
+    "cityOrDistrict": "MCB District",
+    "category": "Waterfall",
+    "directUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Amritdhara1.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Amritdhara1.jpg",
+    "author": "Deviluday",
+    "license": "CC BY-SA 3.0",
+    "status": "VERIFIED"
+  }
+]
