@@ -212,6 +212,20 @@
   background: #ffffff;
   border-color: var(--glass-border-base);
 }
+[data-theme="light"] .auth-mobile-header {
+  background: linear-gradient(135deg, rgba(14, 165, 233, 0.10) 0%, rgba(13, 148, 136, 0.08) 55%, rgba(248, 250, 252, 0.95) 100%);
+  border-bottom-color: var(--glass-border-base);
+}
+[data-theme="light"] .auth-mobile-tabs {
+  background: #F1F5F9;
+  border-color: var(--glass-border-base);
+}
+[data-theme="light"] .auth-mobile-tab {
+  color: var(--text-secondary);
+}
+[data-theme="light"] .auth-mobile-tab.active {
+  color: #ffffff;
+}
 [data-theme="light"] .auth-return-link {
   background: rgba(255, 255, 255, 0.94);
   color: var(--text-secondary);

@@ -181,6 +181,43 @@ export default function AuthPage() {
 
       <div className={`auth-card ${isRegister ? 'register' : 'login'}`}>
         
+        {/* Mobile-only compact header & mode switcher (hidden on desktop) */}
+        <div className="auth-mobile-header">
+          <div className="auth-mobile-brand">
+            <span className="auth-mobile-compass" aria-hidden="true">
+              <Compass size={22} />
+            </span>
+            <div className="auth-mobile-titles">
+              <h2>{isRegister ? 'Join BharatExplore' : 'Welcome to BharatExplore'}</h2>
+              <p>
+                {isRegister
+                  ? 'Create a free account to save favourites across all 36 States & UTs.'
+                  : 'Sign in to access saved itineraries and favourite destinations.'}
+              </p>
+            </div>
+          </div>
+          <div className="auth-mobile-tabs" role="tablist" aria-label="Authentication mode">
+            <button
+              type="button"
+              role="tab"
+              aria-selected={!isRegister}
+              className={`auth-mobile-tab ${!isRegister ? 'active' : ''}`}
+              onClick={() => switchMode(false)}
+            >
+              Sign In
+            </button>
+            <button
+              type="button"
+              role="tab"
+              aria-selected={isRegister}
+              className={`auth-mobile-tab ${isRegister ? 'active' : ''}`}
+              onClick={() => switchMode(true)}
+            >
+              Create Account
+            </button>
+          </div>
+        </div>
+
         {/* The sliding Hero Panel */}
         <div className="auth-hero-panel">
           
@@ -300,7 +337,15 @@ export default function AuthPage() {
             </button>
 
             <div className="mobile-auth-switch">
-              New here? <button type="button" onClick={() => switchMode(true)} tabIndex={loginTabIndex}>Sign Up</button>
+              <span>Don&apos;t have an account?</span>
+              <button
+                type="button"
+                className="mobile-auth-switch-btn"
+                onClick={() => switchMode(true)}
+                tabIndex={loginTabIndex}
+              >
+                Create Account
+              </button>
             </div>
           </div>
 
@@ -435,7 +480,15 @@ export default function AuthPage() {
             </button>
 
             <div className="mobile-auth-switch">
-              Already have an account? <button type="button" onClick={() => switchMode(false)} tabIndex={registerTabIndex}>Log In</button>
+              <span>Already have an account?</span>
+              <button
+                type="button"
+                className="mobile-auth-switch-btn"
+                onClick={() => switchMode(false)}
+                tabIndex={registerTabIndex}
+              >
+                Sign In
+              </button>
             </div>
           </div>
 
