@@ -1,0 +1,13 @@
+target/
+.mvn/
+.classpath
+.project
+.settings/
+.env
+.env.*
+src/main/resources/application-local.*
+src/main/resources/application-prod.*
+src/main/resources/application-production.*
+src/main/resources/application-secret*.*
+*.log
+*.sql
