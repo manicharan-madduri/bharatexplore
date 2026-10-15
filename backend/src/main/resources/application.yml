@@ -13,12 +13,14 @@ spring:
 
   jpa:
     open-in-view: false
+    database-platform: org.hibernate.dialect.MySQLDialect
     hibernate:
       ddl-auto: ${SPRING_JPA_DDL_AUTO:validate}
     show-sql: false
     properties:
       hibernate:
         format_sql: true
+        dialect: org.hibernate.dialect.MySQLDialect
 
 server:
   port: ${PORT:8082}
